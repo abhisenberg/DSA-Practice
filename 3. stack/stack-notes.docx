@@ -1,0 +1,8 @@
+Question,Insight,Status
+"#1: Valid Paranths",,"Easy, understood."
+"#2: Reverse Polish Notation",,"Easy, understood."
+"#3: Next Greater Element",,"Very interesting insight but very unintuitive. Definitely should visit again."
+"#4: Implement min/max stack",,"I understand the O(2N) space complexity, but O(N) space complexity is tricky."
+"#5: Histogram Area",,"Breaking down a problem into the core problem."
+"#6: Simplify path",,"Question is not difficult but the wordings made it difficult to understand."
+"#7: Decode string",,"Slightly tough question."

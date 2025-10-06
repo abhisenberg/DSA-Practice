@@ -1,0 +1,1799 @@
+[
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "bisect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bisect",
+        "description": "bisect",
+        "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "solveQueries",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.ps.ps-ex1",
+        "description": "1. arrays and strings.python.ps.ps-ex1",
+        "peekOfCode": "def solveQueries(nums, queries, limit):\n    prefixSum = [nums[0]]\n    for i in range(1, len(nums)):\n        prefixSum.append(nums[i] + prefixSum[-1])\n    ans = []\n    for q in queries:\n        qsum = prefixSum[q[1]] - prefixSum[q[0]] + nums[q[0]]\n        ans.append((qsum < limit))\n    print(ans)    \n    return ans",
+        "detail": "1. arrays and strings.python.ps.ps-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.ps.ps-ex1",
+        "description": "1. arrays and strings.python.ps.ps-ex1",
+        "peekOfCode": "nums = [1,6,3,2,7,2]\nqueries = [[0,3], [2,5], [2,4]]\nlimit = 13\nsolveQueries(nums, queries, limit)",
+        "detail": "1. arrays and strings.python.ps.ps-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "queries",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.ps.ps-ex1",
+        "description": "1. arrays and strings.python.ps.ps-ex1",
+        "peekOfCode": "queries = [[0,3], [2,5], [2,4]]\nlimit = 13\nsolveQueries(nums, queries, limit)",
+        "detail": "1. arrays and strings.python.ps.ps-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "limit",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.ps.ps-ex1",
+        "description": "1. arrays and strings.python.ps.ps-ex1",
+        "peekOfCode": "limit = 13\nsolveQueries(nums, queries, limit)",
+        "detail": "1. arrays and strings.python.ps.ps-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "longestSubLessSum",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.sw.sw-ex1",
+        "description": "1. arrays and strings.python.sw.sw-ex1",
+        "peekOfCode": "def longestSubLessSum(arr, target):\n    left = 0\n    maxlen, currsum = 0, 0\n    for right in range(len(arr)):\n        currsum += arr[right]\n        while currsum > target:\n            currsum -= arr[left]\n            left += 1\n        maxlen = max(maxlen, right-left+1)\n    print(\"Max len is: \", maxlen)",
+        "detail": "1. arrays and strings.python.sw.sw-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.sw.sw-ex1",
+        "description": "1. arrays and strings.python.sw.sw-ex1",
+        "peekOfCode": "nums = [3, 1, 2, 7, 4, 2, 1, 1, 5]\nk = 8\nlongestSubLessSum(nums, k)",
+        "detail": "1. arrays and strings.python.sw.sw-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.sw.sw-ex1",
+        "description": "1. arrays and strings.python.sw.sw-ex1",
+        "peekOfCode": "k = 8\nlongestSubLessSum(nums, k)",
+        "detail": "1. arrays and strings.python.sw.sw-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "maxLenOneZero",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.sw.sw-ex2",
+        "description": "1. arrays and strings.python.sw.sw-ex2",
+        "peekOfCode": "def maxLenOneZero(arr):\n    left = 0\n    maxlen, countzero = 0, 0\n    for right in range(len(arr)):\n        if arr[right] == \"0\":\n            countzero += 1\n        while countzero > 1:\n            if arr[left] == \"0\":\n                countzero -= 1\n            left += 1",
+        "detail": "1. arrays and strings.python.sw.sw-ex2",
+        "documentation": {}
+    },
+    {
+        "label": "reverseWords",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.tp.lc-557",
+        "description": "1. arrays and strings.python.tp.lc-557",
+        "peekOfCode": "def reverseWords(s: str) -> str:\n    \"\"\"\n    - keep an answer list where you can keep adding words\n    - start from i\n    - find the next occurrence index of a space or string end, call it j\n    - run iteration from j to i, in reverse, and add the characters in that order\n    - at the end, join the answer list into a string \n    \"\"\"\n    ans = []\n    n = len(s)",
+        "detail": "1. arrays and strings.python.tp.lc-557",
+        "documentation": {}
+    },
+    {
+        "label": "combineSorted",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.tp.tp-ex3",
+        "description": "1. arrays and strings.python.tp.tp-ex3",
+        "peekOfCode": "def combineSorted(list1, list2):\n    result = []\n    #1. Run both pointers till one runs out\n    i, j = 0, 0\n    m, n = len(list1), len(list2)\n    while i < m and j < n:\n        if list1[i] < list2[j]:\n            result.append(list1[i])\n            i += 1\n        else:",
+        "detail": "1. arrays and strings.python.tp.tp-ex3",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.tp.tp-ex3",
+        "description": "1. arrays and strings.python.tp.tp-ex3",
+        "peekOfCode": "a = [1,4,7,20]\nb = [3,5,6]\ncombineSorted(a, b)",
+        "detail": "1. arrays and strings.python.tp.tp-ex3",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.tp.tp-ex3",
+        "description": "1. arrays and strings.python.tp.tp-ex3",
+        "peekOfCode": "b = [3,5,6]\ncombineSorted(a, b)",
+        "detail": "1. arrays and strings.python.tp.tp-ex3",
+        "documentation": {}
+    },
+    {
+        "label": "findMaxAverage",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.3-max-avg-subarray-1",
+        "description": "1. arrays and strings.python.3-max-avg-subarray-1",
+        "peekOfCode": "def findMaxAverage(nums: List[int], k: int) -> int:\n    l, r, sum = 0, 0, 0\n    while r < k:\n        sum += nums[r]\n        r += 1\n    avg = sum / k\n    mavg = avg\n    while r < len(nums):\n        avg = avg - (nums[l] - nums[r])/k\n        mavg = max(mavg, avg)",
+        "detail": "1. arrays and strings.python.3-max-avg-subarray-1",
+        "documentation": {}
+    },
+    {
+        "label": "avg",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.3-max-avg-subarray-1",
+        "description": "1. arrays and strings.python.3-max-avg-subarray-1",
+        "peekOfCode": "avg = findMaxAverage([1,12,-5,-6,50,3], 4)\nprint(avg)",
+        "detail": "1. arrays and strings.python.3-max-avg-subarray-1",
+        "documentation": {}
+    },
+    {
+        "label": "longestOnes",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.4-max-consecutive-ones",
+        "description": "1. arrays and strings.python.4-max-consecutive-ones",
+        "peekOfCode": "def longestOnes(nums: List[int], k: int) -> int:        \n    mlen, l, z = 0, 0, 0\n    for r in range(len(nums)):\n        if nums[r] == 0:\n            z += 1\n        while z > k:\n            if nums[l] == 0:\n                z -= 1\n            l += 1\n        mlen = max(mlen, r-l+1)",
+        "detail": "1. arrays and strings.python.4-max-consecutive-ones",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.4-max-consecutive-ones",
+        "description": "1. arrays and strings.python.4-max-consecutive-ones",
+        "peekOfCode": "nums = [1,1,1,0,0,0,1,1,1,1,0]\nk = 2\nprint(longestOnes(nums, k))",
+        "detail": "1. arrays and strings.python.4-max-consecutive-ones",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.4-max-consecutive-ones",
+        "description": "1. arrays and strings.python.4-max-consecutive-ones",
+        "peekOfCode": "k = 2\nprint(longestOnes(nums, k))",
+        "detail": "1. arrays and strings.python.4-max-consecutive-ones",
+        "documentation": {}
+    },
+    {
+        "label": "largestUniqueNumber",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.5-largest-unique",
+        "description": "1. arrays and strings.python.5-largest-unique",
+        "peekOfCode": "def largestUniqueNumber(nums: List[int]) -> int:\n    counts = [0]*1001\n    for x in nums:\n        counts[x] += 1\n    print(counts)\n    for i in range(len(counts)-1, -1, -1):\n        if counts[i] == 1:\n            return i\n    return -1\nprint(largestUniqueNumber([99]))",
+        "detail": "1. arrays and strings.python.5-largest-unique",
+        "documentation": {}
+    },
+    {
+        "label": "findMaxLength",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.6-contig-subarr-equal-0-1",
+        "description": "1. arrays and strings.python.6-contig-subarr-equal-0-1",
+        "peekOfCode": "def findMaxLength(arr: List[int]) -> int:\n    count = [0,0]\n    hm = {}\n    #Creating hashmap containing counts of 0s and 1s\n    for i in range(len(arr)):\n        count[arr[i]] += 1\n        hm[tuple(count)] = i\n    #Iterating the hashmap and finding longest length\n    ml = 0\n    for k, v in hm.items():",
+        "detail": "1. arrays and strings.python.6-contig-subarr-equal-0-1",
+        "documentation": {}
+    },
+    {
+        "label": "removeElement",
+        "kind": 2,
+        "importPath": "1. arrays and strings.python.lc-27",
+        "description": "1. arrays and strings.python.lc-27",
+        "peekOfCode": "def removeElement(arr: List[int], val: int) -> int:\n    count = 0\n    while True:\n        try:\n            arr.remove(val)\n            count += 1\n        except ValueError:\n            return count\n    return count\na = [0,1,2,2,3,0,4,2]",
+        "detail": "1. arrays and strings.python.lc-27",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.lc-27",
+        "description": "1. arrays and strings.python.lc-27",
+        "peekOfCode": "a = [0,1,2,2,3,0,4,2]\nb = 2\nprint(removeElement(a, b))\nprint(a)",
+        "detail": "1. arrays and strings.python.lc-27",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "1. arrays and strings.python.lc-27",
+        "description": "1. arrays and strings.python.lc-27",
+        "peekOfCode": "b = 2\nprint(removeElement(a, b))\nprint(a)",
+        "detail": "1. arrays and strings.python.lc-27",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "10. graphs.lc--752",
+        "description": "10. graphs.lc--752",
+        "peekOfCode": "class Solution:\n    def openLock(self, deadends: List[str], target: str) -> int:\n        if \"0000\" in deadends:\n            return -1\n        #1. Helper function to get next set of combination\n        def nextcombs(curr):\n            nextlist = []\n            for i in range(4):\n                n = int(curr[i])\n                n_up = (n + 1)%10",
+        "detail": "10. graphs.lc--752",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "10. graphs.lc-1091",
+        "description": "10. graphs.lc-1091",
+        "peekOfCode": "class Solution:\n    def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:\n        n = len(grid)\n        if grid[0][0] == 1:\n            return -1\n        #1. Define the directions\n        directions = [(-1,-1), (-1,0), (0,-1), (0,1), (1,0), (1,1), (-1,1), (1,-1)]\n        #2. Helper function to check coordinates are valid\n        def isvalid(i, j):\n            return 0 <= i < n and 0 <= j < n and grid[i][j] == 0",
+        "detail": "10. graphs.lc-1091",
+        "documentation": {}
+    },
+    {
+        "label": "ladderLength",
+        "kind": 2,
+        "importPath": "10. graphs.lc-127",
+        "description": "10. graphs.lc-127",
+        "peekOfCode": "def ladderLength(beginWord: str, endWord: str, wordList: List[str]) -> int:\n    if endWord not in wordList:\n        return 0\n    #1. Create a graph\n    graph = defaultdict(list)\n    wordList.append(beginWord)\n    for word in wordList:\n        for i in range(len(word)):\n            pattern = word[:i] + \"*\" + word[i+1:]\n            graph[pattern].append(word)",
+        "detail": "10. graphs.lc-127",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "10. graphs.lc-1293",
+        "description": "10. graphs.lc-1293",
+        "peekOfCode": "class Solution:\n    def shortestPath(self, grid: List[List[int]], k: int) -> int:\n        m, n = len(grid), len(grid[0])\n        #0. Define helper function to check validity and directions\n        def isvalid(i,j):\n            return 0 <= i < m and 0 <= j < n\n        directions = [(0,1), (1,0), (0,-1), (-1,0)]\n        #1. Define queues and other relevant variables\n        q = deque()\n        seen = set()",
+        "detail": "10. graphs.lc-1293",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "10. graphs.lc-200-islands",
+        "description": "10. graphs.lc-200-islands",
+        "peekOfCode": "class Solution:\n    def numIslands(self, grid: List[List[str]]) -> int:\n        m, n = len(grid), len(grid[0])\n        #Helper: Check if the indices are valid for the given grid\n        def isValid(i, j):\n            return 0 <= i < m and 0 <= j < n\n        directions = [(0,1), (1,0), (0,-1), (-1,0)]\n        seen = set()\n        #Write the DFS logic\n        def dfs(i, j):",
+        "detail": "10. graphs.lc-200-islands",
+        "documentation": {}
+    },
+    {
+        "label": "maximumDetonation",
+        "kind": 2,
+        "importPath": "10. graphs.lc-2101",
+        "description": "10. graphs.lc-2101",
+        "peekOfCode": "def maximumDetonation(bombs: List[List[int]]) -> int:\n        #0. Contains the mapping of i-th bomb against the list of bombs that it'll detonate\n        graph = defaultdict(list)\n        #1. Get the next set of bombs that will be detonated\n        for i in range(len(bombs)):\n            for j in range(i+1, len(bombs)):\n                a, b, r1 = bombs[i]\n                x, y, r2 = bombs[j]\n                d = math.sqrt((a-x)**2 + (b-y)**2)\n                if r1 >= d:",
+        "detail": "10. graphs.lc-2101",
+        "documentation": {}
+    },
+    {
+        "label": "test1",
+        "kind": 5,
+        "importPath": "10. graphs.lc-2101",
+        "description": "10. graphs.lc-2101",
+        "peekOfCode": "test1 = [[2,1,3],[6,1,4]]\nprint(maximumDetonation(test1))\ntest2 = [[1,1,5],[10,10,5]]\nprint(maximumDetonation(test2))\ntest3 = [[1,2,3],[2,3,1],[3,4,2],[4,5,3],[5,6,4]]\nprint(maximumDetonation(test3))",
+        "detail": "10. graphs.lc-2101",
+        "documentation": {}
+    },
+    {
+        "label": "test2",
+        "kind": 5,
+        "importPath": "10. graphs.lc-2101",
+        "description": "10. graphs.lc-2101",
+        "peekOfCode": "test2 = [[1,1,5],[10,10,5]]\nprint(maximumDetonation(test2))\ntest3 = [[1,2,3],[2,3,1],[3,4,2],[4,5,3],[5,6,4]]\nprint(maximumDetonation(test3))",
+        "detail": "10. graphs.lc-2101",
+        "documentation": {}
+    },
+    {
+        "label": "test3",
+        "kind": 5,
+        "importPath": "10. graphs.lc-2101",
+        "description": "10. graphs.lc-2101",
+        "peekOfCode": "test3 = [[1,2,3],[2,3,1],[3,4,2],[4,5,3],[5,6,4]]\nprint(maximumDetonation(test3))",
+        "detail": "10. graphs.lc-2101",
+        "documentation": {}
+    },
+    {
+        "label": "calcEquation",
+        "kind": 2,
+        "importPath": "10. graphs.lc-399",
+        "description": "10. graphs.lc-399",
+        "peekOfCode": "def calcEquation(equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:\n    # Convert it into a graph\n    graph = defaultdict(dict)\n    for i in range(len(equations)):\n        x, y = equations[i]\n        v = values[i]\n        graph[x][y] = v\n        graph[y][x] = 1/v\n        graph[x][x] = 1\n        graph[y][y] = 1",
+        "detail": "10. graphs.lc-399",
+        "documentation": {}
+    },
+    {
+        "label": "equations",
+        "kind": 5,
+        "importPath": "10. graphs.lc-399",
+        "description": "10. graphs.lc-399",
+        "peekOfCode": "equations = [[\"a\",\"b\"],[\"b\",\"c\"]]\nvalues = [2.0,3.0]\nqueries = [[\"a\",\"c\"],[\"b\",\"a\"],[\"a\",\"e\"],[\"a\",\"a\"],[\"x\",\"x\"]]\ncalcEquation(equations, values, queries)",
+        "detail": "10. graphs.lc-399",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "10. graphs.lc-399",
+        "description": "10. graphs.lc-399",
+        "peekOfCode": "values = [2.0,3.0]\nqueries = [[\"a\",\"c\"],[\"b\",\"a\"],[\"a\",\"e\"],[\"a\",\"a\"],[\"x\",\"x\"]]\ncalcEquation(equations, values, queries)",
+        "detail": "10. graphs.lc-399",
+        "documentation": {}
+    },
+    {
+        "label": "queries",
+        "kind": 5,
+        "importPath": "10. graphs.lc-399",
+        "description": "10. graphs.lc-399",
+        "peekOfCode": "queries = [[\"a\",\"c\"],[\"b\",\"a\"],[\"a\",\"e\"],[\"a\",\"a\"],[\"x\",\"x\"]]\ncalcEquation(equations, values, queries)",
+        "detail": "10. graphs.lc-399",
+        "documentation": {}
+    },
+    {
+        "label": "updateMatrix",
+        "kind": 2,
+        "importPath": "10. graphs.lc-542",
+        "description": "10. graphs.lc-542",
+        "peekOfCode": "def updateMatrix(mat):\n    def valid(row, col):\n        return 0 <= row < m and 0 <= col < n and mat[row][col] == 1\n    # if you don't want to modify the input, you can create a copy at the start\n    m = len(mat)\n    n = len(mat[0])\n    queue = deque()\n    seen = set()\n    for row in range(m):\n        for col in range(n):",
+        "detail": "10. graphs.lc-542",
+        "documentation": {}
+    },
+    {
+        "label": "mat",
+        "kind": 5,
+        "importPath": "10. graphs.lc-542",
+        "description": "10. graphs.lc-542",
+        "peekOfCode": "mat = [[0,0,0,0,1], [0,1,1,1,1], [0,1,1,1,1], [1,1,1,1,1], [0,0,0,0,1]]\nprint(updateMatrix(mat))",
+        "detail": "10. graphs.lc-542",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "10. graphs.lc-863",
+        "description": "10. graphs.lc-863",
+        "peekOfCode": "class Solution:\n    def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:\n        #1. Convert the BT to a graph\n        graph = defaultdict(list)\n        def traverse(node, parent):     \n            if parent:\n                graph[node.val].append(parent.val)\n            if node.left:\n                graph[node.val].append(node.left.val)\n                traverse(node.left, node)",
+        "detail": "10. graphs.lc-863",
+        "documentation": {}
+    },
+    {
+        "label": "snakesAndLadders",
+        "kind": 2,
+        "importPath": "10. graphs.lc-909",
+        "description": "10. graphs.lc-909",
+        "peekOfCode": "def snakesAndLadders(board: List[List[int]]) -> int:\n    n = len(board)\n    #1. Define helper functions to convert between labels and indices\n    def getlabel(i, j):\n        x = n-i\n        if x % 2 == 0: #If even\n            return 6*(x-1) + (6-j)\n        else: #If odd\n            return 6*(x-1) + (j+1)\n    def getindices(label):",
+        "detail": "10. graphs.lc-909",
+        "documentation": {}
+    },
+    {
+        "label": "board",
+        "kind": 5,
+        "importPath": "10. graphs.lc-909",
+        "description": "10. graphs.lc-909",
+        "peekOfCode": "board = [[-1,-1,19,10,-1],[2,-1,-1,6,-1],[-1,17,-1,19,-1],[25,-1,20,-1,-1],[-1,-1,-1,-1,15]]\nans = snakesAndLadders(board)\nprint(ans)",
+        "detail": "10. graphs.lc-909",
+        "documentation": {}
+    },
+    {
+        "label": "ans",
+        "kind": 5,
+        "importPath": "10. graphs.lc-909",
+        "description": "10. graphs.lc-909",
+        "peekOfCode": "ans = snakesAndLadders(board)\nprint(ans)",
+        "detail": "10. graphs.lc-909",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "10. graphs.sept9-practice",
+        "description": "10. graphs.sept9-practice",
+        "peekOfCode": "l = {1:{\"a\":1, \"b\":2}}\nif \"a\" in l[1]:\n    print(\"y\")",
+        "detail": "10. graphs.sept9-practice",
+        "documentation": {}
+    },
+    {
+        "label": "lowerbound_bs",
+        "kind": 2,
+        "importPath": "11. binary search.bs_lowerbound",
+        "description": "11. binary search.bs_lowerbound",
+        "peekOfCode": "def lowerbound_bs(arr, target):\n    left, right = 0, len(arr)   #Notice that 'right' is not len(arr)-1\n    while left < right: #Notice that there is no equailty i.e. it is not <=\n        mid = (left + right) // 2\n        if target <= arr[mid]:  #⚠️ Notice the equality check here, this is crucial and the only difference between upper and lower bound\n            right = mid #Notice that 'right = mid', not 'mid - 1'\n        else:\n            left = mid + 1\n    return left\narr1 = [1,1,2,2,2,3,4,5,6,6,7]",
+        "detail": "11. binary search.bs_lowerbound",
+        "documentation": {}
+    },
+    {
+        "label": "arr1",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound",
+        "description": "11. binary search.bs_lowerbound",
+        "peekOfCode": "arr1 = [1,1,2,2,2,3,4,5,6,6,7]\ntarget = 2\nprint(lowerbound_bs(arr1, target))  #Index = 2 is returned, since the leftmost '2' occurs at index = 2\narr1 = [1,1,2,2,2,4,5,6,6,7]\ntarget = 3\nprint(lowerbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_lowerbound",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound",
+        "description": "11. binary search.bs_lowerbound",
+        "peekOfCode": "target = 2\nprint(lowerbound_bs(arr1, target))  #Index = 2 is returned, since the leftmost '2' occurs at index = 2\narr1 = [1,1,2,2,2,4,5,6,6,7]\ntarget = 3\nprint(lowerbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_lowerbound",
+        "documentation": {}
+    },
+    {
+        "label": "arr1",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound",
+        "description": "11. binary search.bs_lowerbound",
+        "peekOfCode": "arr1 = [1,1,2,2,2,4,5,6,6,7]\ntarget = 3\nprint(lowerbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_lowerbound",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound",
+        "description": "11. binary search.bs_lowerbound",
+        "peekOfCode": "target = 3\nprint(lowerbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_lowerbound",
+        "documentation": {}
+    },
+    {
+        "label": "simpleBS",
+        "kind": 2,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "def simpleBS(arr, target):\n    l, r = 0, len(arr)\n    while l <= r:\n        mid = (l + r) // 2\n        if target == arr[mid]:\n            return mid\n        elif target < arr[mid]:\n            r = mid - 1\n        else:\n            l = mid + 1",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "lower_bound",
+        "kind": 2,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "def lower_bound(arr, target):\n    l, r = 0, len(arr) - 1\n    while l <= r:\n        mid = (l + r) // 2\n        if arr[mid] >= target:\n            r = mid - 1\n        else:\n            l = mid + 1\n    return l\n#Case 1: Simple case, target element is present somewhere in the array",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 1: Simple case, target element is present somewhere in the array\")\ntarget = 5\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 2: Simple case, target element is present at the left edge\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 2: Simple case, target element is present at the left edge\")\ntarget = 1\nprint(bisect.bisect_left(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = 5\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 2: Simple case, target element is present at the left edge\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 2: Simple case, target element is present at the left edge\")\ntarget = 1\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 3: Target element is not present in the array and is smaller than all",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 2: Simple case, target element is present at the left edge\")\ntarget = 1\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 3: Target element is not present in the array and is smaller than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 3: Target element is not present in the array and is smaller than all\")\ntarget = -1\nprint(bisect.bisect_left(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = 1\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 3: Target element is not present in the array and is smaller than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 3: Target element is not present in the array and is smaller than all\")\ntarget = -1\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 4: Target element is not present in the array, is smaller than all and has only one element in arry",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 3: Target element is not present in the array and is smaller than all\")\ntarget = -1\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\")\ntarget = 0\nprint(bisect.bisect_left(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = -1\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\")\ntarget = 0\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 5: Target element is not present in the array, is smaller than all and has only one element in arry",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = [1]\nprint(\"Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\")\ntarget = 0\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 5: Target element is not present in the array, is smaller than all and has only one element in arry\narr = []\nprint(\"Case 5: Array is empty\")\ntarget = 0\nprint(bisect.bisect_left(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = 0\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 5: Target element is not present in the array, is smaller than all and has only one element in arry\narr = []\nprint(\"Case 5: Array is empty\")\ntarget = 0\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 6: Target element is not present in the array and is larger than all",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = []\nprint(\"Case 5: Array is empty\")\ntarget = 0\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 6: Target element is not present in the array and is larger than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 6: Target element is not present in the array and is larger than all\")\ntarget = 8\nprint(bisect.bisect_left(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = 0\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 6: Target element is not present in the array and is larger than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 6: Target element is not present in the array and is larger than all\")\ntarget = 8\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 7: Target element is not present in the array, is smaller than all and has only one element in arry",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 6: Target element is not present in the array and is larger than all\")\ntarget = 8\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 7: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 7: Target element is not present in the array, is larger than all and has only one element in arry\")\ntarget = 2\nprint(bisect.bisect_left(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = 8\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))\n#Case 7: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 7: Target element is not present in the array, is larger than all and has only one element in arry\")\ntarget = 2\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "arr = [1]\nprint(\"Case 7: Target element is not present in the array, is larger than all and has only one element in arry\")\ntarget = 2\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_lowerbound_revise",
+        "description": "11. binary search.bs_lowerbound_revise",
+        "peekOfCode": "target = 2\nprint(bisect.bisect_left(arr, target))\nprint(lower_bound(arr, target))",
+        "detail": "11. binary search.bs_lowerbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "upperbound_bs",
+        "kind": 2,
+        "importPath": "11. binary search.bs_upperbound",
+        "description": "11. binary search.bs_upperbound",
+        "peekOfCode": "def upperbound_bs(arr, target):\n    left, right = 0, len(arr)   #Notice that 'right' is not len(arr)-1\n    while left < right: #Notice that there is no equailty i.e. it is not <=\n        mid = (left + right) // 2\n        if target < arr[mid]:  #⚠️ Notice, no equality check here, this is crucial and the only difference between upper and lower bound\n            right = mid #Notice that 'right = mid', not 'mid - 1'\n        else:\n            left = mid + 1\n    return left\narr1 = [1,1,2,2,2,3,4,5,6,6,7]",
+        "detail": "11. binary search.bs_upperbound",
+        "documentation": {}
+    },
+    {
+        "label": "arr1",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound",
+        "description": "11. binary search.bs_upperbound",
+        "peekOfCode": "arr1 = [1,1,2,2,2,3,4,5,6,6,7]\ntarget = 2\nprint(upperbound_bs(arr1, target))  #Index = 5 is returned, which is, rightmomst '2' = 4 + 1 = 5\narr1 = [1,1,2,2,2,4,5,6,6,7]\ntarget = 3\nprint(upperbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_upperbound",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound",
+        "description": "11. binary search.bs_upperbound",
+        "peekOfCode": "target = 2\nprint(upperbound_bs(arr1, target))  #Index = 5 is returned, which is, rightmomst '2' = 4 + 1 = 5\narr1 = [1,1,2,2,2,4,5,6,6,7]\ntarget = 3\nprint(upperbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_upperbound",
+        "documentation": {}
+    },
+    {
+        "label": "arr1",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound",
+        "description": "11. binary search.bs_upperbound",
+        "peekOfCode": "arr1 = [1,1,2,2,2,4,5,6,6,7]\ntarget = 3\nprint(upperbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_upperbound",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound",
+        "description": "11. binary search.bs_upperbound",
+        "peekOfCode": "target = 3\nprint(upperbound_bs(arr1, target))  #Index = 5 is returned, since '3' should be inserted at index = 5, after all the 2s.",
+        "detail": "11. binary search.bs_upperbound",
+        "documentation": {}
+    },
+    {
+        "label": "simpleBS",
+        "kind": 2,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "def simpleBS(arr, target):\n    l, r = 0, len(arr)\n    while l <= r:\n        mid = (l + r) // 2\n        if target == arr[mid]:\n            return mid\n        elif target < arr[mid]:\n            r = mid - 1\n        else:\n            l = mid + 1",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "upper_bound",
+        "kind": 2,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "def upper_bound(arr, target):\n    l, r = 0, len(arr) - 1\n    while l <= r:\n        mid = (l + r) // 2\n        if arr[mid] <= target:\n            l = mid + 1\n        else:\n            r = mid - 1\n    return l\n#Case 1: Simple case, target element is present somewhere in the array",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 1: Simple case, target element is present somewhere in the array\")\ntarget = 5\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 2: Simple case, target element is present at the right edge\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 2: Simple case, target element is present at the right edge\")\ntarget = 7\nprint(bisect.bisect_right(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = 5\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 2: Simple case, target element is present at the right edge\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 2: Simple case, target element is present at the right edge\")\ntarget = 7\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 3: Target element is not present in the array and is smaller than all",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 2: Simple case, target element is present at the right edge\")\ntarget = 7\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 3: Target element is not present in the array and is smaller than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 3: Target element is not present in the array and is smaller than all\")\ntarget = -1\nprint(bisect.bisect_right(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = 7\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 3: Target element is not present in the array and is smaller than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 3: Target element is not present in the array and is smaller than all\")\ntarget = -1\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 4: Target element is not present in the array, is smaller than all and has only one element in arry",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 3: Target element is not present in the array and is smaller than all\")\ntarget = -1\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\")\ntarget = 0\nprint(bisect.bisect_right(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = -1\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\")\ntarget = 0\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 5: Target element is not present in the array, is smaller than all and has only one element in arry",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = [1]\nprint(\"Case 4: Target element is not present in the array, is smaller than all and has only one element in arry\")\ntarget = 0\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 5: Target element is not present in the array, is smaller than all and has only one element in arry\narr = []\nprint(\"Case 5: Array is empty\")\ntarget = 0\nprint(bisect.bisect_right(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = 0\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 5: Target element is not present in the array, is smaller than all and has only one element in arry\narr = []\nprint(\"Case 5: Array is empty\")\ntarget = 0\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 6: Target element is not present in the array and is larger than all",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = []\nprint(\"Case 5: Array is empty\")\ntarget = 0\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 6: Target element is not present in the array and is larger than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 6: Target element is not present in the array and is larger than all\")\ntarget = 8\nprint(bisect.bisect_right(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = 0\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 6: Target element is not present in the array and is larger than all\narr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 6: Target element is not present in the array and is larger than all\")\ntarget = 8\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 7: Target element is not present in the array, is smaller than all and has only one element in arry",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = [1,1,2,2,2,3,3,4,5,7]\nprint(\"Case 6: Target element is not present in the array and is larger than all\")\ntarget = 8\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 7: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 7: Target element is not present in the array, is larger than all and has only one element in arry\")\ntarget = 2\nprint(bisect.bisect_right(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = 8\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))\n#Case 7: Target element is not present in the array, is smaller than all and has only one element in arry\narr = [1]\nprint(\"Case 7: Target element is not present in the array, is larger than all and has only one element in arry\")\ntarget = 2\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "arr = [1]\nprint(\"Case 7: Target element is not present in the array, is larger than all and has only one element in arry\")\ntarget = 2\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "target",
+        "kind": 5,
+        "importPath": "11. binary search.bs_upperbound_revise",
+        "description": "11. binary search.bs_upperbound_revise",
+        "peekOfCode": "target = 2\nprint(bisect.bisect_right(arr, target))\nprint(upper_bound(arr, target))",
+        "detail": "11. binary search.bs_upperbound_revise",
+        "documentation": {}
+    },
+    {
+        "label": "maximizeSweetness",
+        "kind": 2,
+        "importPath": "11. binary search.lc-1231",
+        "description": "11. binary search.lc-1231",
+        "peekOfCode": "def maximizeSweetness(nums: List[int], k: int) -> int:\n    #0. Figure out the lowest and highest possible sum of any subarray that could be the maximized minimum of all \n    k += 1\n    left = min(nums)    #The lowest possible would be the smallest element itself \n    right = sum(nums) // k #The highest possible could be the sum of all the elements \n    #1. Define a function where, given a number \"limit\", it can check whether the array can be divided in a way that the sum of each subarry is smaller than the given limit.\n    def check(limit):\n        subarrayCount = 0 #The count of the subarrays\n        currentSubarraySum = 0 #Sum of the current subarray that is being iterated\n        for n in nums:",
+        "detail": "11. binary search.lc-1231",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "11. binary search.lc-1231",
+        "description": "11. binary search.lc-1231",
+        "peekOfCode": "nums = [1,2,3,4,5,6,7,8,9]\nk = 5\n# nums = [5,6,7,8,9,1,2,3,4]\n# k = 8\n# nums = [1,2,2,1,2,2,1,2,2]\n# k = 2\nprint(maximizeSweetness(nums, k))",
+        "detail": "11. binary search.lc-1231",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "11. binary search.lc-1231",
+        "description": "11. binary search.lc-1231",
+        "peekOfCode": "k = 5\n# nums = [5,6,7,8,9,1,2,3,4]\n# k = 8\n# nums = [1,2,2,1,2,2,1,2,2]\n# k = 2\nprint(maximizeSweetness(nums, k))",
+        "detail": "11. binary search.lc-1231",
+        "documentation": {}
+    },
+    {
+        "label": "minimumEffortPath",
+        "kind": 2,
+        "importPath": "11. binary search.lc-1631",
+        "description": "11. binary search.lc-1631",
+        "peekOfCode": "def minimumEffortPath(heights: List[List[int]]) -> int:\n    #0. Figure out the lowest and highest effort possible\n    left = 0 #Lowest effort = 0 if all cells have same value\n    right = max(max(row) for row in heights) #Highest effort = max value present in the matrix\n    #1. Write a function that checks whether there is a path in graph with effort k\n    m, n = len(heights), len(heights[0])\n    directions = [(0,1),(1,0),(0,-1),(-1,0)]\n    def isValid(r, c):\n        return 0 <= r < m and 0 <= c < n\n    def check(k):",
+        "detail": "11. binary search.lc-1631",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.lc-1631",
+        "description": "11. binary search.lc-1631",
+        "peekOfCode": "arr = [[1,2,1,1,1],[1,2,1,2,1],[1,2,1,2,1],[1,2,1,2,1],[1,1,1,2,1]]\nprint(minimumEffortPath(arr))",
+        "detail": "11. binary search.lc-1631",
+        "documentation": {}
+    },
+    {
+        "label": "minSpeedOnTime",
+        "kind": 2,
+        "importPath": "11. binary search.lc-1870",
+        "description": "11. binary search.lc-1870",
+        "peekOfCode": "def minSpeedOnTime(dist, hour) -> int:\n        # If there are more stations than there are hours allowed, return -1\n        if len(dist) > ceil(hour):\n            return -1\n        # Checkking if destination is reachable with a given speed\n        def canReach(speed):\n            totalHours = 0\n            for d in dist:\n                print(f\"Total hours: {totalHours}\")\n                totalHours = ceil(totalHours)",
+        "detail": "11. binary search.lc-1870",
+        "documentation": {}
+    },
+    {
+        "label": "dist",
+        "kind": 5,
+        "importPath": "11. binary search.lc-1870",
+        "description": "11. binary search.lc-1870",
+        "peekOfCode": "dist = [1,3,2]\nhour = 2.7\nprint(minSpeedOnTime(dist, hour))",
+        "detail": "11. binary search.lc-1870",
+        "documentation": {}
+    },
+    {
+        "label": "hour",
+        "kind": 5,
+        "importPath": "11. binary search.lc-1870",
+        "description": "11. binary search.lc-1870",
+        "peekOfCode": "hour = 2.7\nprint(minSpeedOnTime(dist, hour))",
+        "detail": "11. binary search.lc-1870",
+        "documentation": {}
+    },
+    {
+        "label": "successfulPairs",
+        "kind": 2,
+        "importPath": "11. binary search.lc-2300",
+        "description": "11. binary search.lc-2300",
+        "peekOfCode": "def successfulPairs(spells: List[int], potions: List[int], success: int) -> List[int]:\n    #0. FIrst we will sort the potions\n    potions.sort()\n    #1. Write binary search to find the leftmost insertion point of required potion strength\n    def binSearch(target):\n        l, r = 0, len(potions)-1\n        while l < r:\n            mid = (l + r) // 2\n            if target <= potions[mid]:\n                r = mid",
+        "detail": "11. binary search.lc-2300",
+        "documentation": {}
+    },
+    {
+        "label": "spells",
+        "kind": 5,
+        "importPath": "11. binary search.lc-2300",
+        "description": "11. binary search.lc-2300",
+        "peekOfCode": "spells = [5,1,3]\npotions = [1,2,3,4,5]\nsuccess = 7\nans = successfulPairs(spells, potions, success)\nprint(ans)",
+        "detail": "11. binary search.lc-2300",
+        "documentation": {}
+    },
+    {
+        "label": "potions",
+        "kind": 5,
+        "importPath": "11. binary search.lc-2300",
+        "description": "11. binary search.lc-2300",
+        "peekOfCode": "potions = [1,2,3,4,5]\nsuccess = 7\nans = successfulPairs(spells, potions, success)\nprint(ans)",
+        "detail": "11. binary search.lc-2300",
+        "documentation": {}
+    },
+    {
+        "label": "success",
+        "kind": 5,
+        "importPath": "11. binary search.lc-2300",
+        "description": "11. binary search.lc-2300",
+        "peekOfCode": "success = 7\nans = successfulPairs(spells, potions, success)\nprint(ans)",
+        "detail": "11. binary search.lc-2300",
+        "documentation": {}
+    },
+    {
+        "label": "ans",
+        "kind": 5,
+        "importPath": "11. binary search.lc-2300",
+        "description": "11. binary search.lc-2300",
+        "peekOfCode": "ans = successfulPairs(spells, potions, success)\nprint(ans)",
+        "detail": "11. binary search.lc-2300",
+        "documentation": {}
+    },
+    {
+        "label": "permute",
+        "kind": 2,
+        "importPath": "12. backtracking.lc-46",
+        "description": "12. backtracking.lc-46",
+        "peekOfCode": "def permute(nums):\n    ans = []\n    def permu(curr):\n        if len(curr) == len(nums):\n            ans.append(curr[:])\n            return\n        for i in range(len(nums)):\n            if nums[i] not in curr:\n                curr.append(nums[i])\n                permu(curr)",
+        "detail": "12. backtracking.lc-46",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "12. backtracking.lc-52",
+        "description": "12. backtracking.lc-52",
+        "peekOfCode": "class Solution:\n    def totalNQueens(self, n: int) -> int:\n        #0. Create sets to store the attackable cols, diagonals and anti-diagonals\n        attackable_cols = set()\n        attackable_dias = set()\n        attackable_anti_dias = set()\n        #1. Create helper function to mark attackable positions if a queen is placed at (r,c)\n        def putQueen(r,c):\n            attackable_cols.add(c)\n            attackable_dias.add((r-c))",
+        "detail": "12. backtracking.lc-52",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "12. backtracking.lc-79",
+        "description": "12. backtracking.lc-79",
+        "peekOfCode": "class Solution:\n    def exist(self, board: List[List[str]], word: str) -> bool:\n        #0. Define helper functions for checking valid and directions\n        m = len(board)\n        n = len(board[0])\n        def isValid(i, j):\n            return 0 <= i < m and 0 <= j < n\n        dirs = [(0,1),(1,0),(0,-1),(-1,0)]\n        #1. Define backtracking function\n        seen = set()",
+        "detail": "12. backtracking.lc-79",
+        "documentation": {}
+    },
+    {
+        "label": "fib",
+        "kind": 2,
+        "importPath": "13. dp.basics.fib",
+        "description": "13. dp.basics.fib",
+        "peekOfCode": "def fib(n):\n    if n == 0 or n == 1:\n        return n\n    return fib(n-1) + fib(n-2)\n\"\"\"\nWith memoization\n\"\"\"\nhm = {}\ndef fibm(n):\n    if n == 0 or n == 1:",
+        "detail": "13. dp.basics.fib",
+        "documentation": {}
+    },
+    {
+        "label": "fibm",
+        "kind": 2,
+        "importPath": "13. dp.basics.fib",
+        "description": "13. dp.basics.fib",
+        "peekOfCode": "def fibm(n):\n    if n == 0 or n == 1:\n        return n\n    if n in hm:\n        return hm[n]\n    hm[n] = fibm(n-1) + fibm(n-2)\n    return hm[n]\n\"\"\"\nBottom up\n\"\"\"",
+        "detail": "13. dp.basics.fib",
+        "documentation": {}
+    },
+    {
+        "label": "fibbu",
+        "kind": 2,
+        "importPath": "13. dp.basics.fib",
+        "description": "13. dp.basics.fib",
+        "peekOfCode": "def fibbu(n):\n    ans = [0] * (n+1)\n    ans[1] = 1\n    for i in range(2, len(ans)):\n        ans[i] = ans[i-1] + ans[i-2]\n    return ans[n]",
+        "detail": "13. dp.basics.fib",
+        "documentation": {}
+    },
+    {
+        "label": "nth",
+        "kind": 5,
+        "importPath": "13. dp.basics.fib",
+        "description": "13. dp.basics.fib",
+        "peekOfCode": "nth = (n-1)th + (n-2)th\n\"\"\"\ndef fib(n):\n    if n == 0 or n == 1:\n        return n\n    return fib(n-1) + fib(n-2)\n\"\"\"\nWith memoization\n\"\"\"\nhm = {}",
+        "detail": "13. dp.basics.fib",
+        "documentation": {}
+    },
+    {
+        "label": "hm",
+        "kind": 5,
+        "importPath": "13. dp.basics.fib",
+        "description": "13. dp.basics.fib",
+        "peekOfCode": "hm = {}\ndef fibm(n):\n    if n == 0 or n == 1:\n        return n\n    if n in hm:\n        return hm[n]\n    hm[n] = fibm(n-1) + fibm(n-2)\n    return hm[n]\n\"\"\"\nBottom up",
+        "detail": "13. dp.basics.fib",
+        "documentation": {}
+    },
+    {
+        "label": "solveKnapsack_topdown",
+        "kind": 2,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "def solveKnapsack_topdown(profits, weights, capacity):\n    hm = {}\n    n = len(profits)\n    def dp(i, cap):\n        if i == n or cap == 0:\n            return 0\n        if (i, cap) in hm:\n            return hm[(i, cap)]\n        ans = dp(i+1, cap)  # skip case\n        if weights[i] <= cap:",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "solveKnapsack_bottomup",
+        "kind": 2,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "def solveKnapsack_bottomup(profits, weights, capacity):\n    n = len(profits)\n    dp = [ [0]*(capacity+1) for _ in range(n+1) ]   #we do +1 to cover the base cases\n    \"\"\"\n    items = 0 means no item available\n    items = 1 means 1 item available, i=0\n    items = 2 means 2 items available, i=0,1\n    etc\n    \"\"\"\n    for items in range(1, n+1):",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "solveKnapsack_bottomup_optimized",
+        "kind": 2,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "def solveKnapsack_bottomup_optimized(profits, weights, capacity):\n    n = len(profits)\n    dp = [0] * (capacity+1)   #we do +1 to cover the base cases\n    \"\"\"\n    items = 0 means no item available\n    items = 1 means 1 item available, i=0\n    items = 2 means 2 items available, i=0,1\n    etc\n    \"\"\"\n    for currItemIndex in range(n):",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "profits",
+        "kind": 5,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "profits = [4,5,3,7]\nweights = [2,3,1,4]\ncapacity = 5\nans = solveKnapsack_bottomup_optimized(profits, weights, capacity)\nprint(ans)",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "weights",
+        "kind": 5,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "weights = [2,3,1,4]\ncapacity = 5\nans = solveKnapsack_bottomup_optimized(profits, weights, capacity)\nprint(ans)",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "capacity",
+        "kind": 5,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "capacity = 5\nans = solveKnapsack_bottomup_optimized(profits, weights, capacity)\nprint(ans)",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "ans",
+        "kind": 5,
+        "importPath": "13. dp.knapsack.01knapsack",
+        "description": "13. dp.knapsack.01knapsack",
+        "peekOfCode": "ans = solveKnapsack_bottomup_optimized(profits, weights, capacity)\nprint(ans)",
+        "detail": "13. dp.knapsack.01knapsack",
+        "documentation": {}
+    },
+    {
+        "label": "TrieNode",
+        "kind": 6,
+        "importPath": "14. misc.tries.lc-1268",
+        "description": "14. misc.tries.lc-1268",
+        "peekOfCode": "class TrieNode:\n    def __init__(self):\n        self.children = {}  #Hashmap to contain children letters and their data\n        self.suggestions = []   #List of suggestions\ndef makeTrie(words):\n    root = TrieNode()\n    for word in words:\n        curr = root\n        for letter in word:\n            if letter not in curr.children:",
+        "detail": "14. misc.tries.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "makeTrie",
+        "kind": 2,
+        "importPath": "14. misc.tries.lc-1268",
+        "description": "14. misc.tries.lc-1268",
+        "peekOfCode": "def makeTrie(words):\n    root = TrieNode()\n    for word in words:\n        curr = root\n        for letter in word:\n            if letter not in curr.children:\n                curr.children[letter] = TrieNode()\n            curr = curr.children[letter]\n            curr.suggestions.append(letter) #Insert the current word as suggestion\n            curr.suggestions.sort() #Sorting the suggestions",
+        "detail": "14. misc.tries.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "getSuggestions",
+        "kind": 2,
+        "importPath": "14. misc.tries.lc-1268",
+        "description": "14. misc.tries.lc-1268",
+        "peekOfCode": "def getSuggestions(trie, searchWord):\n    ans = []\n    curr = trie\n    for letter in searchWord:\n        if letter in curr.children:\n            curr = curr.children[letter]\n            ans.append(curr.suggestions)\n        else:\n            return ans\n    return ans",
+        "detail": "14. misc.tries.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "TrieNode",
+        "kind": 6,
+        "importPath": "14. misc.tries.tries",
+        "description": "14. misc.tries.tries",
+        "peekOfCode": "class TrieNode:\n    def __init__(self):\n        self.data = None\n        self.children = {}  #A hashmap of children, the hashmap is like \"a\":TrieNode()\ndef buildTrieWithData(words):\n    root = TrieNode()   #Create the root node\n    for word in words:\n        currNode = root\n        for letter in word:\n            if letter not in currNode.children:",
+        "detail": "14. misc.tries.tries",
+        "documentation": {}
+    },
+    {
+        "label": "buildTrie",
+        "kind": 2,
+        "importPath": "14. misc.tries.tries",
+        "description": "14. misc.tries.tries",
+        "peekOfCode": "def buildTrie(word):\n    root = {}\n    for word in words:\n        curr = root\n        for letter in word:\n            if letter not in curr:\n                curr[letter] = {}\n            curr = curr[letter]\n    return root\ndef doesTrieContain(trie, word):",
+        "detail": "14. misc.tries.tries",
+        "documentation": {}
+    },
+    {
+        "label": "doesTrieContain",
+        "kind": 2,
+        "importPath": "14. misc.tries.tries",
+        "description": "14. misc.tries.tries",
+        "peekOfCode": "def doesTrieContain(trie, word):\n    curr = trie\n    for letter in word:\n        if letter in curr:\n            curr = curr[letter]\n        else:\n            return False\n    return True\n\"\"\"\nTrie with extra data at each node",
+        "detail": "14. misc.tries.tries",
+        "documentation": {}
+    },
+    {
+        "label": "buildTrieWithData",
+        "kind": 2,
+        "importPath": "14. misc.tries.tries",
+        "description": "14. misc.tries.tries",
+        "peekOfCode": "def buildTrieWithData(words):\n    root = TrieNode()   #Create the root node\n    for word in words:\n        currNode = root\n        for letter in word:\n            if letter not in currNode.children:\n                letterNode = TrieNode()\n                currNode.children[letter] = letterNode\n            currNode = currNode.children[letter]\n    print(root)",
+        "detail": "14. misc.tries.tries",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "14. misc.tries.tries",
+        "description": "14. misc.tries.tries",
+        "peekOfCode": "words = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsimpleTrie = buildTrie(words)\nprint(doesTrieContain(simpleTrie, \"mobile\"))\nprint(doesTrieContain(simpleTrie, \"mobsle\"))",
+        "detail": "14. misc.tries.tries",
+        "documentation": {}
+    },
+    {
+        "label": "simpleTrie",
+        "kind": 5,
+        "importPath": "14. misc.tries.tries",
+        "description": "14. misc.tries.tries",
+        "peekOfCode": "simpleTrie = buildTrie(words)\nprint(doesTrieContain(simpleTrie, \"mobile\"))\nprint(doesTrieContain(simpleTrie, \"mobsle\"))",
+        "detail": "14. misc.tries.tries",
+        "documentation": {}
+    },
+    {
+        "label": "brightestLight",
+        "kind": 2,
+        "importPath": "14. misc.difference-sum-lights",
+        "description": "14. misc.difference-sum-lights",
+        "peekOfCode": "def brightestLight(lights: List[List[Int]]):\n    #0. Create the change array, which records the change in light at relevant spots\n    change = []\n    for position, radius in lights:\n        change.append([position, 1])    #Add 1, indicating we enter a lightup zone\n        change.append([position + radius + 1, -1]) #Subtract 1, we exit that zone\n    #1. Sort the change array to traverse the zones linearly in correct order\n    change.sort()\n    #2. Traverse the array and keep track of the current brightness\n    currBrightness, maxBrightness, maxBrightSpot = 0, 0, 0",
+        "detail": "14. misc.difference-sum-lights",
+        "documentation": {}
+    },
+    {
+        "label": "shuffle_list",
+        "kind": 2,
+        "importPath": "14. misc.shuffle-strings",
+        "description": "14. misc.shuffle-strings",
+        "peekOfCode": "def shuffle_list(input_list):\n    # Make a copy of the input list to avoid modifying the original list\n    shuffled_list = input_list[:]\n    # Use the random.shuffle method to shuffle the list in place\n    random.shuffle(shuffled_list)\n    return shuffled_list\nprint(shuffle_list())",
+        "detail": "14. misc.shuffle-strings",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.daily-temp",
+        "description": "2. linkedlist.python.daily-temp",
+        "peekOfCode": "class Solution:\n    def dailyTemperatures(self, arr: List[int]) -> List[int]:\n        #In the stack, we will insert the index of elements and refer to the\n        #values through the original array\n        stack = []  \n        ans = [0]*len(arr)\n        #Run the algo for the rest of the array\n        for i in range(len(arr)):\n            #Remove all the elements smaller or equal than this element\n            #And store their answer, which is, their index - curren index",
+        "detail": "2. linkedlist.python.daily-temp",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.intro",
+        "description": "2. linkedlist.python.intro",
+        "peekOfCode": "class Node:\n    def __init__(self, val):\n        self.val = val\n        self.next = None\ndef iterate(node):\n    if not node:\n        return\n    print(node.val, \" -> \")\n    iterate(node.next)\nhead = Node(1)",
+        "detail": "2. linkedlist.python.intro",
+        "documentation": {}
+    },
+    {
+        "label": "iterate",
+        "kind": 2,
+        "importPath": "2. linkedlist.python.intro",
+        "description": "2. linkedlist.python.intro",
+        "peekOfCode": "def iterate(node):\n    if not node:\n        return\n    print(node.val, \" -> \")\n    iterate(node.next)\nhead = Node(1)\nhead.next = Node(2)\nhead.next.next = Node(3)\nhead.next.next.next = Node(4)\niterate(head)",
+        "detail": "2. linkedlist.python.intro",
+        "documentation": {}
+    },
+    {
+        "label": "head",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.intro",
+        "description": "2. linkedlist.python.intro",
+        "peekOfCode": "head = Node(1)\nhead.next = Node(2)\nhead.next.next = Node(3)\nhead.next.next.next = Node(4)\niterate(head)",
+        "detail": "2. linkedlist.python.intro",
+        "documentation": {}
+    },
+    {
+        "label": "head.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.intro",
+        "description": "2. linkedlist.python.intro",
+        "peekOfCode": "head.next = Node(2)\nhead.next.next = Node(3)\nhead.next.next.next = Node(4)\niterate(head)",
+        "detail": "2. linkedlist.python.intro",
+        "documentation": {}
+    },
+    {
+        "label": "head.next.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.intro",
+        "description": "2. linkedlist.python.intro",
+        "peekOfCode": "head.next.next = Node(3)\nhead.next.next.next = Node(4)\niterate(head)",
+        "detail": "2. linkedlist.python.intro",
+        "documentation": {}
+    },
+    {
+        "label": "head.next.next.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.intro",
+        "description": "2. linkedlist.python.intro",
+        "peekOfCode": "head.next.next.next = Node(4)\niterate(head)",
+        "detail": "2. linkedlist.python.intro",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "class Node:\n    def __init__(self, val):\n        self.val = val\n        self.next = None\nhead = Node(1)\nhead.next = Node(2)\nhead.next.next = Node(3)\nhead.next.next.next = Node(4)\nhead.next.next.next.next = Node(5)\ndef kthFromEnd(head, k):",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "kthFromEnd",
+        "kind": 2,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "def kthFromEnd(head, k):\n    fast = head\n    slow = head\n    for _ in range(k):\n        fast = fast.next\n    while fast:\n        slow = slow.next\n        fast = fast.next\n    print(slow.val)\nkthFromEnd(head, 4)",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "head",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "head = Node(1)\nhead.next = Node(2)\nhead.next.next = Node(3)\nhead.next.next.next = Node(4)\nhead.next.next.next.next = Node(5)\ndef kthFromEnd(head, k):\n    fast = head\n    slow = head\n    for _ in range(k):\n        fast = fast.next",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "head.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "head.next = Node(2)\nhead.next.next = Node(3)\nhead.next.next.next = Node(4)\nhead.next.next.next.next = Node(5)\ndef kthFromEnd(head, k):\n    fast = head\n    slow = head\n    for _ in range(k):\n        fast = fast.next\n    while fast:",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "head.next.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "head.next.next = Node(3)\nhead.next.next.next = Node(4)\nhead.next.next.next.next = Node(5)\ndef kthFromEnd(head, k):\n    fast = head\n    slow = head\n    for _ in range(k):\n        fast = fast.next\n    while fast:\n        slow = slow.next",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "head.next.next.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "head.next.next.next = Node(4)\nhead.next.next.next.next = Node(5)\ndef kthFromEnd(head, k):\n    fast = head\n    slow = head\n    for _ in range(k):\n        fast = fast.next\n    while fast:\n        slow = slow.next\n        fast = fast.next",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "head.next.next.next.next",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.kth-from-end",
+        "description": "2. linkedlist.python.kth-from-end",
+        "peekOfCode": "head.next.next.next.next = Node(5)\ndef kthFromEnd(head, k):\n    fast = head\n    slow = head\n    for _ in range(k):\n        fast = fast.next\n    while fast:\n        slow = slow.next\n        fast = fast.next\n    print(slow.val)",
+        "detail": "2. linkedlist.python.kth-from-end",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.lc-24-swap-nodes",
+        "description": "2. linkedlist.python.lc-24-swap-nodes",
+        "peekOfCode": "class Solution:\n    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:\n        if not head:\n            return head\n        a = head\n        b = a.next\n        d = None\n        while a and b:\n            b = a.next\n            c = b.next",
+        "detail": "2. linkedlist.python.lc-24-swap-nodes",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.lc-71-simplify-path",
+        "description": "2. linkedlist.python.lc-71-simplify-path",
+        "peekOfCode": "s = \"/.../a/../b/c/../d/./\"\na = s.split('/')\nprint(a)",
+        "detail": "2. linkedlist.python.lc-71-simplify-path",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "2. linkedlist.python.lc-71-simplify-path",
+        "description": "2. linkedlist.python.lc-71-simplify-path",
+        "peekOfCode": "a = s.split('/')\nprint(a)",
+        "detail": "2. linkedlist.python.lc-71-simplify-path",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.lc2438",
+        "description": "2. linkedlist.python.lc2438",
+        "peekOfCode": "class Solution:\n    def longestSubarray(self, nums: List[int], limit: int) -> int:\n        \"\"\"\n        Basically, we have to keep finding the maximum and minimum of a \n        running window in an array as we go.\n        Attribute to maximize: length of the subarray = j-i+1\n        Constraint: max - min <= limit\n        To find the running max and min of the array, we will use\n        double-ended queues, and use\n            - a monotonically decreasing queue to find the max",
+        "detail": "2. linkedlist.python.lc2438",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.linkedlist",
+        "description": "2. linkedlist.python.linkedlist",
+        "peekOfCode": "class Node:\n    def __init__(self, data=None, next=None):\n        self.data = data\n        self.next = next\nclass LinkedList:\n    def __init__(self):\n        self.head = Node()\n        self.tail = Node()\n        self.head.next = self.tail\n        self.size = 0",
+        "detail": "2. linkedlist.python.linkedlist",
+        "documentation": {}
+    },
+    {
+        "label": "LinkedList",
+        "kind": 6,
+        "importPath": "2. linkedlist.python.linkedlist",
+        "description": "2. linkedlist.python.linkedlist",
+        "peekOfCode": "class LinkedList:\n    def __init__(self):\n        self.head = Node()\n        self.tail = Node()\n        self.head.next = self.tail\n        self.size = 0",
+        "detail": "2. linkedlist.python.linkedlist",
+        "documentation": {}
+    },
+    {
+        "label": "blah",
+        "kind": 2,
+        "importPath": "2. linkedlist.python.pali-num",
+        "description": "2. linkedlist.python.pali-num",
+        "peekOfCode": "def blah(x):\n    tens = 1\n    while x//tens > 9:\n        tens *= 10\n    #Construct new number\n    y, z = 0, x\n    while z > 0 :\n        digit = z % 10\n        y += tens * digit\n        tens //= 10",
+        "detail": "2. linkedlist.python.pali-num",
+        "documentation": {}
+    },
+    {
+        "label": "reverseBetween",
+        "kind": 2,
+        "importPath": "2. linkedlist.python.reverse-ll-2",
+        "description": "2. linkedlist.python.reverse-ll-2",
+        "peekOfCode": "def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:\n    if not head or not head.next or left == right:\n        return head\n    prev = None\n    slow = head\n    count = 1\n    #Reach till left\n    while count < left:\n        prev = slow\n        slow = slow.next",
+        "detail": "2. linkedlist.python.reverse-ll-2",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "5. trees.diameter",
+        "description": "5. trees.diameter",
+        "peekOfCode": "class Solution:\n    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:\n        diam = 0\n        def dia(node):\n            nonlocal diam\n            if not node:\n                return 0\n            left_branch_len = dia(node.left)\n            right_branch_len = dia(node.right)\n            diam = max(left_branch_len + right_branch_len+ 1, diam)",
+        "detail": "5. trees.diameter",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "5. trees.lc-103",
+        "description": "5. trees.lc-103",
+        "peekOfCode": "class Solution:\n    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:\n        if not root:\n            return []\n        q = collections.deque()\n        q.append(root)\n        ltr = True\n        ans = []\n        while q:\n            nicl = len(q)",
+        "detail": "5. trees.lc-103",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "5. trees.zigzag",
+        "description": "5. trees.zigzag",
+        "peekOfCode": "class Solution:\n    def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:\n        ret = []\n        level_list = deque()\n        if root is None:\n            return []\n        # start with the level 0 with a delimiter\n        node_queue = deque([root, None])\n        is_order_left = True\n        while len(node_queue) > 0:",
+        "detail": "5. trees.zigzag",
+        "documentation": {}
+    },
+    {
+        "label": "intmultarr",
+        "kind": 2,
+        "importPath": "9. hashing.hm-counting-2248",
+        "description": "9. hashing.hm-counting-2248",
+        "peekOfCode": "def intmultarr(arr):\n    hm = defaultdict(int)\n    for i in range(len(arr)):\n        for x in arr[i]:\n            hm[x] += 1\n    print(hm)\n    ans = []\n    for key in hm.keys():\n        if hm[key] == len(arr):\n            ans.append(key)",
+        "detail": "9. hashing.hm-counting-2248",
+        "documentation": {}
+    },
+    {
+        "label": "atmostdist",
+        "kind": 2,
+        "importPath": "9. hashing.hm-counting-ex1",
+        "description": "9. hashing.hm-counting-ex1",
+        "peekOfCode": "def atmostdist(arr, k):\n    l = 0\n    ml, hmap = 0, defaultdict(int)\n    for r in range(len(arr)):\n        hmap[arr[r]] += 1\n        while len(hmap) > k:\n            hmap[arr[l]] -= 1\n            if hmap[arr[l]] == 0:\n                del hmap[arr[l]]\n            l += 1",
+        "detail": "9. hashing.hm-counting-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "9. hashing.hm-counting-ex1",
+        "description": "9. hashing.hm-counting-ex1",
+        "peekOfCode": "s = \"eceba\"\nk = 2\natmostdist(s, k)",
+        "detail": "9. hashing.hm-counting-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "9. hashing.hm-counting-ex1",
+        "description": "9. hashing.hm-counting-ex1",
+        "peekOfCode": "k = 2\natmostdist(s, k)",
+        "detail": "9. hashing.hm-counting-ex1",
+        "documentation": {}
+    },
+    {
+        "label": "unique",
+        "kind": 2,
+        "importPath": "9. hashing.hm-ex3",
+        "description": "9. hashing.hm-ex3",
+        "peekOfCode": "def unique(arr):\n    hset = set(arr)\n    for x in arr:\n        if x+1 not in hset and x-1 not in hset:\n            print(x)\narr = [1,2,4,6]\nunique(arr)",
+        "detail": "9. hashing.hm-ex3",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "9. hashing.hm-ex3",
+        "description": "9. hashing.hm-ex3",
+        "peekOfCode": "arr = [1,2,4,6]\nunique(arr)",
+        "detail": "9. hashing.hm-ex3",
+        "documentation": {}
+    },
+    {
+        "label": "maximumSum",
+        "kind": 2,
+        "importPath": "9. hashing.lc-2342-max-sum",
+        "description": "9. hashing.lc-2342-max-sum",
+        "peekOfCode": "def maximumSum(arr: List[int]) -> int:\n    hm = {}\n    ms = 0\n    for x in arr:\n        #Create digit sum\n        digsum = 0\n        temp = x\n        while temp:\n            digsum += temp % 10\n            temp = temp // 10",
+        "detail": "9. hashing.lc-2342-max-sum",
+        "documentation": {}
+    },
+    {
+        "label": "equalPairs",
+        "kind": 2,
+        "importPath": "9. hashing.lc-2352-row-col",
+        "description": "9. hashing.lc-2352-row-col",
+        "peekOfCode": "def equalPairs(grid: List[List[int]]) -> int:\n    #Create the hm of rows\n    rowhm = defaultdict(int)\n    for row in grid:\n        rowhm[tuple(row)] += 1\n    #Create the hm of columns\n    colhm = defaultdict(int)\n    n = len(grid)\n    for i in range(n):\n        col = []",
+        "detail": "9. hashing.lc-2352-row-col",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "random.LC.lc-1268",
+        "description": "random.LC.lc-1268",
+        "peekOfCode": "class Node:\n    def __init__(self):\n        self.children = {}\n        self.isword = False\n        self.suggestions = []\nclass Trie:\n    def __init__(self):\n        self.root = Node()\n    def insert(self, word):\n        parent = self.root",
+        "detail": "random.LC.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "Trie",
+        "kind": 6,
+        "importPath": "random.LC.lc-1268",
+        "description": "random.LC.lc-1268",
+        "peekOfCode": "class Trie:\n    def __init__(self):\n        self.root = Node()\n    def insert(self, word):\n        parent = self.root\n        for c in word:\n            if c not in parent.children:\n                parent.children[c] = Node()\n            parent = parent.children[c]\n            # create suggestions here",
+        "detail": "random.LC.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "random.LC.lc-1268",
+        "description": "random.LC.lc-1268",
+        "peekOfCode": "class Solution:\n    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:\n        trie = Trie()\n        ans = []\n        for prod in products:\n            trie.insert(prod)\n        for i in range(1, len(searchWord)):\n            ans.append(trie.get_sugg(searchWord[:i]))\n        return ans\nsol = Solution()",
+        "detail": "random.LC.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "sol",
+        "kind": 5,
+        "importPath": "random.LC.lc-1268",
+        "description": "random.LC.lc-1268",
+        "peekOfCode": "sol = Solution()\nproducts = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsearchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
+        "detail": "random.LC.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "kind": 5,
+        "importPath": "random.LC.lc-1268",
+        "description": "random.LC.lc-1268",
+        "peekOfCode": "products = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsearchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
+        "detail": "random.LC.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "searchWord",
+        "kind": 5,
+        "importPath": "random.LC.lc-1268",
+        "description": "random.LC.lc-1268",
+        "peekOfCode": "searchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
+        "detail": "random.LC.lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "random.LC.lc-78",
+        "description": "random.LC.lc-78",
+        "peekOfCode": "class Solution:\n    def subsets(self, nums: List[int]) -> List[List[int]]:\n        ans = []\n        def subs(curr, start):\n            ans.append(curr[:])\n            for i in range(start, len(nums)):\n                curr.append(nums[i])\n                subs(curr, i+1)\n                curr.pop()\n        subs([], 0)",
+        "detail": "random.LC.lc-78",
+        "documentation": {}
+    },
+    {
+        "label": "sol",
+        "kind": 5,
+        "importPath": "random.LC.lc-78",
+        "description": "random.LC.lc-78",
+        "peekOfCode": "sol = Solution()\nprint(sol.subsets([1,2,3]))",
+        "detail": "random.LC.lc-78",
+        "documentation": {}
+    },
+    {
+        "label": "lc90",
+        "kind": 2,
+        "importPath": "random.LC.lc-90",
+        "description": "random.LC.lc-90",
+        "peekOfCode": "def lc90(nums):\n    n = len(nums)\n    nums.sort()\n    ans = []\n    def swd(i, curr):\n        #base case\n        if i == n:\n            ans.append(curr[:])\n            return\n        #case 1: add the element",
+        "detail": "random.LC.lc-90",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "random.LC.lc-90",
+        "description": "random.LC.lc-90",
+        "peekOfCode": "nums = [1,2,2]\nprint(lc90(nums))",
+        "detail": "random.LC.lc-90",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "random.baseconversion",
+        "description": "random.baseconversion",
+        "peekOfCode": "x = \"abc\"\ny = list(x)\nprint(y)",
+        "detail": "random.baseconversion",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "random.baseconversion",
+        "description": "random.baseconversion",
+        "peekOfCode": "y = list(x)\nprint(y)",
+        "detail": "random.baseconversion",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "ordered_dict",
+        "description": "ordered_dict",
+        "peekOfCode": "nums = [1,2,3,4,5,6]\nod = OrderedDict.fromkeys(nums)\nd = dict.fromkeys(nums)\nprint(od)\nprint(d)",
+        "detail": "ordered_dict",
+        "documentation": {}
+    },
+    {
+        "label": "od",
+        "kind": 5,
+        "importPath": "ordered_dict",
+        "description": "ordered_dict",
+        "peekOfCode": "od = OrderedDict.fromkeys(nums)\nd = dict.fromkeys(nums)\nprint(od)\nprint(d)",
+        "detail": "ordered_dict",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "ordered_dict",
+        "description": "ordered_dict",
+        "peekOfCode": "d = dict.fromkeys(nums)\nprint(od)\nprint(d)",
+        "detail": "ordered_dict",
+        "documentation": {}
+    }
+]

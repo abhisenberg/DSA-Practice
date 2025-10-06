@@ -1,0 +1,29 @@
+1. Reverse a Queue (Easy/Medium - depending on method): Focuses on queue manipulation.
+    While not a specific LeetCode problem, several variations exist online that you can find.
+
+2. Print Job Scheduling (Easy/Medium implementations): Simulating a real-world queue-like process.
+    LeetCode doesn't have an exact match, but you'll find similar problems online.
+
+3. Implement Queue using Stacks  (Medium): This forces you to use stacks to mimic queue behavior.
+    https://leetcode.com/problems/implement-queue-using-stacks/
+
+4. Design Circular Queue (Medium): Efficient use of an array-based implementation.
+    https://leetcode.com/problems/design-circular-queue/
+
+5. Implement Stack using Queues (Medium):  The counterpart to 'Implement Queue using Stacks', this one challenges you to reverse the behavior.
+    https://leetcode.com/problems/implement-stack-using-queues/
+
+6. Rotting Oranges (Medium): Classic example of using a queue within the context of Breadth-First Search (BFS) in a graph-like problem.
+    https://leetcode.com/problems/rotting-oranges/
+
+7. Task Scheduler (Medium):  Interesting problem involving scheduling tasks with spacing, where a queue can be a useful tool.
+    https://leetcode.com/problems/task-scheduler/
+
+8. Open the Lock (Medium):  Another BFS-like problem, where a queue is useful for tracking states
+    https://leetcode.com/problems/open-the-lock/
+
+9. Walls and Gates (Medium): Similar to 'Rotting Oranges' with BFS, but slightly different application
+    https://leetcode.com/problems/walls-and-gates/
+
+10. Sliding Window Maximum (Hard): Although  commonly solved with a deque (double-ended queue), it provides excellent practice adaptable to queues.
+    https://leetcode.com/problems/sliding-window-maximum/

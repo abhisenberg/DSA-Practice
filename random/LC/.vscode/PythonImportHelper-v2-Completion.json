@@ -1,0 +1,116 @@
+[
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "lc-1268",
+        "description": "lc-1268",
+        "peekOfCode": "class Node:\n    def __init__(self):\n        self.children = {}\n        self.isword = False\n        self.suggestions = []\nclass Trie:\n    def __init__(self):\n        self.root = Node()\n    def insert(self, word):\n        parent = self.root",
+        "detail": "lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "Trie",
+        "kind": 6,
+        "importPath": "lc-1268",
+        "description": "lc-1268",
+        "peekOfCode": "class Trie:\n    def __init__(self):\n        self.root = Node()\n    def insert(self, word):\n        parent = self.root\n        for c in word:\n            if c not in parent.children:\n                parent.children[c] = Node()\n            parent = parent.children[c]\n            # create suggestions here",
+        "detail": "lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "lc-1268",
+        "description": "lc-1268",
+        "peekOfCode": "class Solution:\n    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:\n        trie = Trie()\n        ans = []\n        for prod in products:\n            trie.insert(prod)\n        for i in range(1, len(searchWord)):\n            ans.append(trie.get_sugg(searchWord[:i]))\n        return ans\nsol = Solution()",
+        "detail": "lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "sol",
+        "kind": 5,
+        "importPath": "lc-1268",
+        "description": "lc-1268",
+        "peekOfCode": "sol = Solution()\nproducts = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsearchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
+        "detail": "lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "kind": 5,
+        "importPath": "lc-1268",
+        "description": "lc-1268",
+        "peekOfCode": "products = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsearchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
+        "detail": "lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "searchWord",
+        "kind": 5,
+        "importPath": "lc-1268",
+        "description": "lc-1268",
+        "peekOfCode": "searchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
+        "detail": "lc-1268",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "lc-78",
+        "description": "lc-78",
+        "peekOfCode": "class Solution:\n    def subsets(self, nums: List[int]) -> List[List[int]]:\n        ans = []\n        def subs(curr, start):\n            ans.append(curr[:])\n            for i in range(start, len(nums)):\n                curr.append(nums[i])\n                subs(curr, i+1)\n                curr.pop()\n        subs([], 0)",
+        "detail": "lc-78",
+        "documentation": {}
+    },
+    {
+        "label": "sol",
+        "kind": 5,
+        "importPath": "lc-78",
+        "description": "lc-78",
+        "peekOfCode": "sol = Solution()\nprint(sol.subsets([1,2,3]))",
+        "detail": "lc-78",
+        "documentation": {}
+    },
+    {
+        "label": "lc90",
+        "kind": 2,
+        "importPath": "lc-90",
+        "description": "lc-90",
+        "peekOfCode": "def lc90(nums):\n    n = len(nums)\n    nums.sort()\n    ans = []\n    def swd(i, curr):\n        #base case\n        if i == n:\n            ans.append(curr[:])\n            return\n        #case 1: add the element",
+        "detail": "lc-90",
+        "documentation": {}
+    },
+    {
+        "label": "nums",
+        "kind": 5,
+        "importPath": "lc-90",
+        "description": "lc-90",
+        "peekOfCode": "nums = [1,2,2]\nprint(lc90(nums))",
+        "detail": "lc-90",
+        "documentation": {}
+    }
+]

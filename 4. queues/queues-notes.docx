@@ -1,0 +1,31 @@
+
+- A stack emptied into another stack will get reversed.
+    But a queue emptied into another queue will remain in the same order as original.
+
+- We can implement a queue using 2 stacks with O(1) push and pop,
+    but we can NOT implement a stack using 2 queues with O(1) and pop. One of the 2 operations
+    will need to be O(N). Either the push operation will be O(N) or the pop.
+    The reason is the one mentioned above, that a stack emptied into another stack becomes reversed, 
+    so it is easy to mimic a queue. But a queue emptied into another queue does not become reversed.
+
+- To mimic the functionality of a stack and "save some space on heap" we can use recursion
+    since it creates a stack for function calls, hence mimicing the functionality of a stack.
+
+- An intro to BFS:
+    BFS uses queues, since we need a FIFO approach for a queue.
+    Keeping track of depth in a BFS 
+
+
+----------------
+
+Question,Insight,Status
+"#1: Reverse a queue","","Nice question to learn about queue and stack (recursive stack) basics"
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""

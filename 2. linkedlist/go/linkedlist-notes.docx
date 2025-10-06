@@ -1,0 +1,9 @@
+Question,Insight,Status
+"#1: Reverse a linked list",,"Understood. Might just need to revisit the recursion part."
+"#2: Detect cycle",,"Understood."
+"#2: Detect cycle's starting node",,"Just revisit the logic once."
+"#3: Find middle node",,"Understood."
+"#4: Merge sorted linked lists",,"Understood."
+"#5: Remove duplicates from LL",,"Understood. Revisit insight once."
+"#6: Find intersection of 2 LLs",,"A tricky insight."
+"#7: Clone random pointers","Creating a duplicate LL within the original LL and then separating them","Understood but strange."

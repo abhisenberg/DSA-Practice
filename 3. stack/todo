@@ -1,0 +1,26 @@
+1. Valid Parentheses:
+    Check if a given string of parentheses is valid. This problem tests your understanding of stack usage for bracket matching.
+
+2. Evaluate Reverse Polish Notation:
+    Evaluate the value of an arithmetic expression in Reverse Polish Notation. This problem involves using a stack to perform the calculation.
+
+3. Next Greater Element:
+    Find the next greater element for each element in an array. This problem demonstrates the application of stacks in finding the nearest greater elements.
+
+4. Implement Min Stack:
+    Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. This problem tests your ability to maintain auxiliary data structures within a stack.
+
+5. Implement max stack:
+    Implement a stack that supports push, pop, top, and retrieving the maximum element in constant time.
+
+6. Histogram Area:
+    Given an array representing the histogram, calculate the largest rectangle area. This problem involves using a stack to efficiently find the maximum area.
+
+7. Simplify Path:
+    Given an absolute path for a file (Unix-style), simplify it. This problem involves simulating the behavior of a stack.
+
+8. Decode String:
+    Given an encoded string, return its decoded form. This problem involves using a stack to handle nested patterns.
+
+9. Expression Evaluation:
+    Evaluate a mathematical expression represented as a string. This problem requires using a stack to handle operators and operands.

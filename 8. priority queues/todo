@@ -1,0 +1,29 @@
+1. Kth Smallest Element in a Sorted Matrix:
+    Find the kth smallest element in a sorted matrix using a priority queue.
+
+2. Merge K Sorted Lists:
+    Merge k sorted linked lists using a priority queue.
+
+3. Super Ugly Number:
+    Find the nth super ugly number using a priority queue.
+
+4. Cheapest Flights Within K Stops:
+    Find the cheapest flights within k stops using Dijkstra's algorithm with a priority queue.
+
+5. Top K Frequent Elements:
+    Find the top k frequent elements in an array using a priority queue.
+
+6. Task Scheduler:
+    Rearrange tasks to minimize the idle time using a priority queue.
+
+7. Maximum Performance of a Team:
+    Maximize the performance of a team given the limit of the number of engineers and their speeds using a priority queue.
+
+8. Maximum Profit of Running a Job Sequence:
+    Maximize the profit of running a job sequence with given deadlines and profits using a priority queue.
+
+9. Find Median from Data Stream:
+    Design a data structure to find the median of a data stream using two heaps.
+
+10. Merge K Sorted Arrays:
+    Merge k sorted arrays using a priority queue.

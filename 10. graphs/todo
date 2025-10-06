@@ -1,0 +1,26 @@
+1. Breadth-First Search (BFS):
+    Implement BFS for graph traversal.
+
+2. Depth-First Search (DFS):
+    Implement DFS for graph traversal.
+
+3. Topological Sorting:
+    Find a topological ordering of a directed acyclic graph (DAG).
+
+4. Dijkstra's Shortest Path:
+    Find the shortest path in a weighted graph using Dijkstra's algorithm.
+
+5. Bellman-Ford Algorithm:
+    Find the shortest path in a weighted graph with negative edges using the Bellman-Ford algorithm.
+
+6. Minimum Spanning Tree (Prim's Algorithm):
+    Find the minimum spanning tree of a connected, undirected graph using Prim's algorithm.
+
+7. Detect Cycle in a Directed Graph:
+    Detect the presence of a cycle in a directed graph.
+
+8. Floyd-Warshall Algorithm:
+    Find all pairs shortest paths in a weighted graph using the Floyd-Warshall algorithm.
+
+9. Articulation Points and Bridges:
+    Find articulation points and bridges in an undirected graph.

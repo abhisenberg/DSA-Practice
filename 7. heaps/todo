@@ -1,0 +1,29 @@
+1. Top K Frequent Elements:
+    Find the top k frequent elements in an array using a heap.
+
+2. Merge K Sorted Lists:
+    Merge k sorted linked lists using a min-heap.
+
+3. Kth Smallest Element in a Sorted Matrix:
+    Find the kth smallest element in a sorted matrix using a min-heap.
+
+4. Find Median from Data Stream:
+    Design a data structure to find the median of a data stream.
+
+5. Kth Largest Element in an Array:
+    Find the kth largest element in an array using a max-heap.
+
+6. Merge K Sorted Arrays:
+    Merge k sorted arrays using a min-heap.
+
+7. Sort Nearly Sorted Array:
+    Sort a nearly sorted array using a min-heap.
+
+8. Connect Ropes to Minimize Cost:
+    Connect n ropes with minimum cost using a min-heap.
+
+9. Find the Running Median:
+    Find the median of a data stream at any given time.
+
+10. Heap Sort:
+    Implement heap sort algorithm.

@@ -1,0 +1,29 @@
+1. Two Sum:
+    Find two numbers in an array that add up to a specific target.
+
+2. Group Anagrams:
+    Group anagrams from a list of strings using hashing.
+
+3. Longest Substring Without Repeating Characters:
+    Find the length of the longest substring without repeating characters.
+
+4. Four Sum II:
+    Find the number of quadruples that sum to zero in four arrays.
+
+5. Minimum Window Substring:
+    Find the minimum window substring that contains all characters of a pattern.
+
+6. Isomorphic Strings:
+    Determine if two strings are isomorphic.
+
+7. First Unique Character in a String:
+    Find the first non-repeating character in a string.
+
+8. Longest Consecutive Sequence:
+    Find the length of the longest consecutive sequence in an unsorted array.
+
+9. Valid Anagram:
+    Check if two strings are anagrams of each other.
+
+10. Subarray Sum Equals K:
+    Find the total number of continuous subarrays whose sum equals k.

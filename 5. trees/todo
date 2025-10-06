@@ -1,0 +1,29 @@
+Binary Tree Traversal:
+    Implement in-order, pre-order, and post-order traversals of a binary tree.
+
+Binary Search Tree (BST) Validation:
+    Check whether a given binary tree is a valid binary search tree.
+
+Lowest Common Ancestor (LCA) in a Binary Tree:
+    Find the lowest common ancestor of two nodes in a binary tree.
+
+Level Order Traversal (BFS) of a Binary Tree:
+    Perform level order traversal of a binary tree.
+
+Construct Binary Tree from Preorder and Inorder Traversal:
+    Given preorder and inorder traversals of a tree, construct the binary tree.
+
+Maximum Depth of Binary Tree:
+    Find the maximum depth of a binary tree.
+
+Diameter of Binary Tree:
+    Find the diameter (longest path between two nodes) of a binary tree.
+
+Symmetric Tree:
+    Check if a binary tree is symmetric.
+
+Sum of Root to Leaf Binary Numbers:
+    Calculate the sum of binary numbers represented by root-to-leaf paths in a binary tree.
+
+Binary Tree Right Side View:
+    Return the right side view of a binary tree.
