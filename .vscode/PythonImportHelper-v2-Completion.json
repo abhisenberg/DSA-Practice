@@ -136,6 +136,46 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "math",
         "kind": 6,
         "isExtraImport": true,
@@ -209,7 +249,7 @@
         "documentation": {}
     },
     {
-        "label": "defaultdict",
+        "label": "deque",
         "importPath": "collections",
         "description": "collections",
         "isExtraImport": true,
@@ -226,6 +266,22 @@
     },
     {
         "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
         "importPath": "collections",
         "description": "collections",
         "isExtraImport": true,
@@ -255,6 +311,313 @@
         "importPath": "bisect",
         "description": "bisect",
         "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "bisect_left",
+        "importPath": "bisect",
+        "description": "bisect",
+        "isExtraImport": true,
+        "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Questions",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Questions",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Questions",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Questions",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Questions",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
         "documentation": {}
     },
     {
@@ -1565,28 +1928,46 @@
     {
         "label": "Solution",
         "kind": 6,
-        "importPath": "5. trees.diameter",
-        "description": "5. trees.diameter",
+        "importPath": "5. trees.binary trees.diameter",
+        "description": "5. trees.binary trees.diameter",
         "peekOfCode": "class Solution:\n    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:\n        diam = 0\n        def dia(node):\n            nonlocal diam\n            if not node:\n                return 0\n            left_branch_len = dia(node.left)\n            right_branch_len = dia(node.right)\n            diam = max(left_branch_len + right_branch_len+ 1, diam)",
-        "detail": "5. trees.diameter",
+        "detail": "5. trees.binary trees.diameter",
         "documentation": {}
     },
     {
         "label": "Solution",
         "kind": 6,
-        "importPath": "5. trees.lc-103",
-        "description": "5. trees.lc-103",
-        "peekOfCode": "class Solution:\n    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:\n        if not root:\n            return []\n        q = collections.deque()\n        q.append(root)\n        ltr = True\n        ans = []\n        while q:\n            nicl = len(q)",
-        "detail": "5. trees.lc-103",
-        "documentation": {}
-    },
-    {
-        "label": "Solution",
-        "kind": 6,
-        "importPath": "5. trees.zigzag",
-        "description": "5. trees.zigzag",
+        "importPath": "5. trees.binary trees.zigzag",
+        "description": "5. trees.binary trees.zigzag",
         "peekOfCode": "class Solution:\n    def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:\n        ret = []\n        level_list = deque()\n        if root is None:\n            return []\n        # start with the level 0 with a delimiter\n        node_queue = deque([root, None])\n        is_order_left = True\n        while len(node_queue) > 0:",
-        "detail": "5. trees.zigzag",
+        "detail": "5. trees.binary trees.zigzag",
+        "documentation": {}
+    },
+    {
+        "label": "from_preorder",
+        "kind": 2,
+        "importPath": "5. trees.bst.construction.from_preorder",
+        "description": "5. trees.bst.construction.from_preorder",
+        "peekOfCode": "def from_preorder(parr):    #preorder array passed as input\n    if not parr:\n        return None\n    root = parr[0]\n    i = 1\n    while i < len(parr) and parr[i] < root:\n        i += 1\n    root_node = Node(root)\n    root_node.left = from_preorder(parr[1:i])\n    root_node.right = from_preorder(parr[i:])",
+        "detail": "5. trees.bst.construction.from_preorder",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "5. trees.bst.questions.nearest",
+        "description": "5. trees.bst.questions.nearest",
+        "peekOfCode": "def main():\n    tree = from_preorder([6,2,1,4,13,9,15,14])\n    intrav = []\n    def inorder(node):\n        if not node:\n            return\n        inorder(node.left)\n        intrav.append(node.val)\n        inorder(node.right)\n    inorder(tree)",
+        "detail": "5. trees.bst.questions.nearest",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "5. trees.bst.bst",
+        "description": "5. trees.bst.bst",
+        "peekOfCode": "class Node():\n    def __init__(self, val: int, left = None, right = None):\n        self.val = val\n        self.left = left\n        self.right = right\n    def __str__(self):\n        return self.level_order_str()\n    def level_order_str(self) -> str:\n        q = deque([self])\n        ans = []",
+        "detail": "5. trees.bst.bst",
         "documentation": {}
     },
     {
@@ -1662,138 +2043,417 @@
         "documentation": {}
     },
     {
+        "label": "SegTree",
+        "kind": 6,
+        "importPath": "advanced.1. segment trees.segment_trees",
+        "description": "advanced.1. segment trees.segment_trees",
+        "peekOfCode": "class SegTree:\n    \"\"\"\n    leftIndx, rightIndx:\n        defines the range of the current segtree\n    sum:\n        defines the range sum of the current segtree\n    leftChild, rightChild:\n        the lefthalf and righthalf child of the current segtree\n    \"\"\"\n    def __init__(self, leftIndx, rightIndx, arr):",
+        "detail": "advanced.1. segment trees.segment_trees",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "advanced.1. segment trees.segment_trees",
+        "description": "advanced.1. segment trees.segment_trees",
+        "peekOfCode": "def main():\n    n = random.randint(7,12)    #create a random size of the array\n    arr = []\n    for _ in range(n):\n        arr.append(random.randint(1, 50))   #fill it with random elements\n    st = SegTree(0, n-1, arr)\n    for _ in range(100):\n        choice = random.choice([True, False])\n        if choice:      #do a range query\n            l = random.randint(0,n-2)",
+        "detail": "advanced.1. segment trees.segment_trees",
+        "documentation": {}
+    },
+    {
+        "label": "main2",
+        "kind": 2,
+        "importPath": "advanced.1. segment trees.segment_trees",
+        "description": "advanced.1. segment trees.segment_trees",
+        "peekOfCode": "def main2():\n    arr = [4,2,6,1,8,3]\n    st = SegTree(0, len(arr)-1, arr)\n    print(st)\n    l,r = 2,4\n    rs = st.rangeSum(l,r)\n    actualsum = sum(arr[l:r+1])\n    print(f\"found sum: {rs}, actual sum: {actualsum}\")\nclass SegTree:\n    \"\"\"",
+        "detail": "advanced.1. segment trees.segment_trees",
+        "documentation": {}
+    },
+    {
+        "label": "SegTree",
+        "kind": 6,
+        "importPath": "advanced.1. segment trees.segment_trees_lazy",
+        "description": "advanced.1. segment trees.segment_trees_lazy",
+        "peekOfCode": "class SegTree:\n    \"\"\"\n    leftIndx, rightIndx:\n        defines the range of the current segtree\n    sum:\n        defines the range sum of the current segtree\n    leftChild, rightChild:\n        the lefthalf and righthalf child of the current segtree\n    \"\"\"\n    def __init__(self, leftIndx, rightIndx, arr):",
+        "detail": "advanced.1. segment trees.segment_trees_lazy",
+        "documentation": {}
+    },
+    {
+        "label": "fast_exponentiation",
+        "kind": 2,
+        "importPath": "advanced.2. fast exponentiation matrix.template",
+        "description": "advanced.2. fast exponentiation matrix.template",
+        "peekOfCode": "def fast_exponentiation(a, x):\n    base = a\n    res = identity_matrix(len(a))\n    while x > 0:\n        if x & 1 == 1:\n            res = matrix_mul(res, base)    \n        base = matrix_mul(base, base)      \n        x >>= 1\n    return res\ndef matrix_mul(a, b):",
+        "detail": "advanced.2. fast exponentiation matrix.template",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_mul",
+        "kind": 2,
+        "importPath": "advanced.2. fast exponentiation matrix.template",
+        "description": "advanced.2. fast exponentiation matrix.template",
+        "peekOfCode": "def matrix_mul(a, b):\n    m1, n1 = len(a), len(a[0])\n    m2, n2 = len(b), len(b[0])\n    if n1 != m2:\n        raise IndexError(\"Indices of matrices not matching for multiplication\")\n    ans = [[0]*n2 for _ in range(m1)]\n    for i in range(m1):\n        for j in range(n2):\n            for k in range(n1):\n                ans[i][j] = (ans[i][j] + (a[i][k] * b[k][j]))",
+        "detail": "advanced.2. fast exponentiation matrix.template",
+        "documentation": {}
+    },
+    {
+        "label": "print_mat",
+        "kind": 2,
+        "importPath": "advanced.2. fast exponentiation matrix.template",
+        "description": "advanced.2. fast exponentiation matrix.template",
+        "peekOfCode": "def print_mat(mat):\n    print()\n    for arr in mat:\n        print(arr)\n    print()\ndef identity_matrix(n):\n    return [[ (1 if i==j else 0) for j in range(n)] for i in range(n) ]",
+        "detail": "advanced.2. fast exponentiation matrix.template",
+        "documentation": {}
+    },
+    {
+        "label": "identity_matrix",
+        "kind": 2,
+        "importPath": "advanced.2. fast exponentiation matrix.template",
+        "description": "advanced.2. fast exponentiation matrix.template",
+        "peekOfCode": "def identity_matrix(n):\n    return [[ (1 if i==j else 0) for j in range(n)] for i in range(n) ]",
+        "detail": "advanced.2. fast exponentiation matrix.template",
+        "documentation": {}
+    },
+    {
+        "label": "minSplitMerge",
+        "kind": 2,
+        "importPath": "LC.contests.21-09-2025.q3",
+        "description": "LC.contests.21-09-2025.q3",
+        "peekOfCode": "def minSplitMerge(arr1: List[int], arr2: List[int]) -> int:\n    visited = set()\n    q = deque()\n    ans = float('inf')\n    q.append((arr1, 0))\n    visited.add(tuple(arr1))\n    while q:\n        arr, steps = q.popleft()\n        if arr == arr2:\n            ans = min(ans, steps)",
+        "detail": "LC.contests.21-09-2025.q3",
+        "documentation": {}
+    },
+    {
+        "label": "arr1",
+        "kind": 5,
+        "importPath": "LC.contests.21-09-2025.q3",
+        "description": "LC.contests.21-09-2025.q3",
+        "peekOfCode": "arr1 = [3,1,2]\narr2 = [1,2,3]\nprint(minSplitMerge(arr1, arr2))",
+        "detail": "LC.contests.21-09-2025.q3",
+        "documentation": {}
+    },
+    {
+        "label": "arr2",
+        "kind": 5,
+        "importPath": "LC.contests.21-09-2025.q3",
+        "description": "LC.contests.21-09-2025.q3",
+        "peekOfCode": "arr2 = [1,2,3]\nprint(minSplitMerge(arr1, arr2))",
+        "detail": "LC.contests.21-09-2025.q3",
+        "documentation": {}
+    },
+    {
+        "label": "decrep",
+        "kind": 2,
+        "importPath": "LC.contests.28-09-2025.q1",
+        "description": "LC.contests.28-09-2025.q1",
+        "peekOfCode": "def decrep(n):\n    ans = []\n    pos = 1\n    while n > 0:\n        rem = (n%10) * pos\n        print(n, rem)\n        ans.append(rem)\n        n //= 10\n        pos *= 10\n    return reversed(ans)",
+        "detail": "LC.contests.28-09-2025.q1",
+        "documentation": {}
+    },
+    {
+        "label": "splitArray",
+        "kind": 2,
+        "importPath": "LC.contests.28-09-2025.q2",
+        "description": "LC.contests.28-09-2025.q2",
+        "peekOfCode": "def splitArray(arr):\n        n = len(arr)\n        #prefix sum\n        sums = [0]*n\n        sums[0] = arr[0]\n        for k in range(1, n):\n            sums[k] = sums[k-1] + arr[k]\n        canInc, canDec = [False]*n, [False]*n\n        canInc[0] = True\n        canDec[n-1] = True",
+        "detail": "LC.contests.28-09-2025.q2",
+        "documentation": {}
+    },
+    {
+        "label": "Solution",
+        "kind": 6,
+        "importPath": "LC.ques.lc-103",
+        "description": "LC.ques.lc-103",
+        "peekOfCode": "class Solution:\n    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:\n        if not root:\n            return []\n        q = collections.deque()\n        q.append(root)\n        ltr = True\n        ans = []\n        while q:\n            nicl = len(q)",
+        "detail": "LC.ques.lc-103",
+        "documentation": {}
+    },
+    {
         "label": "Node",
         "kind": 6,
-        "importPath": "random.LC.lc-1268",
-        "description": "random.LC.lc-1268",
+        "importPath": "LC.ques.lc-1268",
+        "description": "LC.ques.lc-1268",
         "peekOfCode": "class Node:\n    def __init__(self):\n        self.children = {}\n        self.isword = False\n        self.suggestions = []\nclass Trie:\n    def __init__(self):\n        self.root = Node()\n    def insert(self, word):\n        parent = self.root",
-        "detail": "random.LC.lc-1268",
+        "detail": "LC.ques.lc-1268",
         "documentation": {}
     },
     {
         "label": "Trie",
         "kind": 6,
-        "importPath": "random.LC.lc-1268",
-        "description": "random.LC.lc-1268",
+        "importPath": "LC.ques.lc-1268",
+        "description": "LC.ques.lc-1268",
         "peekOfCode": "class Trie:\n    def __init__(self):\n        self.root = Node()\n    def insert(self, word):\n        parent = self.root\n        for c in word:\n            if c not in parent.children:\n                parent.children[c] = Node()\n            parent = parent.children[c]\n            # create suggestions here",
-        "detail": "random.LC.lc-1268",
+        "detail": "LC.ques.lc-1268",
         "documentation": {}
     },
     {
         "label": "Solution",
         "kind": 6,
-        "importPath": "random.LC.lc-1268",
-        "description": "random.LC.lc-1268",
+        "importPath": "LC.ques.lc-1268",
+        "description": "LC.ques.lc-1268",
         "peekOfCode": "class Solution:\n    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:\n        trie = Trie()\n        ans = []\n        for prod in products:\n            trie.insert(prod)\n        for i in range(1, len(searchWord)):\n            ans.append(trie.get_sugg(searchWord[:i]))\n        return ans\nsol = Solution()",
-        "detail": "random.LC.lc-1268",
+        "detail": "LC.ques.lc-1268",
         "documentation": {}
     },
     {
         "label": "sol",
         "kind": 5,
-        "importPath": "random.LC.lc-1268",
-        "description": "random.LC.lc-1268",
+        "importPath": "LC.ques.lc-1268",
+        "description": "LC.ques.lc-1268",
         "peekOfCode": "sol = Solution()\nproducts = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsearchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
-        "detail": "random.LC.lc-1268",
+        "detail": "LC.ques.lc-1268",
         "documentation": {}
     },
     {
         "label": "products",
         "kind": 5,
-        "importPath": "random.LC.lc-1268",
-        "description": "random.LC.lc-1268",
+        "importPath": "LC.ques.lc-1268",
+        "description": "LC.ques.lc-1268",
         "peekOfCode": "products = [\"mobile\",\"mouse\",\"moneypot\",\"monitor\",\"mousepad\"]\nsearchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
-        "detail": "random.LC.lc-1268",
+        "detail": "LC.ques.lc-1268",
         "documentation": {}
     },
     {
         "label": "searchWord",
         "kind": 5,
-        "importPath": "random.LC.lc-1268",
-        "description": "random.LC.lc-1268",
+        "importPath": "LC.ques.lc-1268",
+        "description": "LC.ques.lc-1268",
         "peekOfCode": "searchWord = \"mouse\"\nprint(\"\\n\\n~~~~~~~~~~\")\nprint(sol.suggestedProducts(products, searchWord))",
-        "detail": "random.LC.lc-1268",
+        "detail": "LC.ques.lc-1268",
         "documentation": {}
     },
     {
         "label": "Solution",
         "kind": 6,
-        "importPath": "random.LC.lc-78",
-        "description": "random.LC.lc-78",
+        "importPath": "LC.ques.lc-78",
+        "description": "LC.ques.lc-78",
         "peekOfCode": "class Solution:\n    def subsets(self, nums: List[int]) -> List[List[int]]:\n        ans = []\n        def subs(curr, start):\n            ans.append(curr[:])\n            for i in range(start, len(nums)):\n                curr.append(nums[i])\n                subs(curr, i+1)\n                curr.pop()\n        subs([], 0)",
-        "detail": "random.LC.lc-78",
+        "detail": "LC.ques.lc-78",
         "documentation": {}
     },
     {
         "label": "sol",
         "kind": 5,
-        "importPath": "random.LC.lc-78",
-        "description": "random.LC.lc-78",
+        "importPath": "LC.ques.lc-78",
+        "description": "LC.ques.lc-78",
         "peekOfCode": "sol = Solution()\nprint(sol.subsets([1,2,3]))",
-        "detail": "random.LC.lc-78",
+        "detail": "LC.ques.lc-78",
         "documentation": {}
     },
     {
         "label": "lc90",
         "kind": 2,
-        "importPath": "random.LC.lc-90",
-        "description": "random.LC.lc-90",
+        "importPath": "LC.ques.lc-90",
+        "description": "LC.ques.lc-90",
         "peekOfCode": "def lc90(nums):\n    n = len(nums)\n    nums.sort()\n    ans = []\n    def swd(i, curr):\n        #base case\n        if i == n:\n            ans.append(curr[:])\n            return\n        #case 1: add the element",
-        "detail": "random.LC.lc-90",
+        "detail": "LC.ques.lc-90",
         "documentation": {}
     },
     {
         "label": "nums",
         "kind": 5,
-        "importPath": "random.LC.lc-90",
-        "description": "random.LC.lc-90",
+        "importPath": "LC.ques.lc-90",
+        "description": "LC.ques.lc-90",
         "peekOfCode": "nums = [1,2,2]\nprint(lc90(nums))",
-        "detail": "random.LC.lc-90",
+        "detail": "LC.ques.lc-90",
         "documentation": {}
     },
     {
         "label": "x",
         "kind": 5,
-        "importPath": "random.baseconversion",
-        "description": "random.baseconversion",
+        "importPath": "LC.baseconversion",
+        "description": "LC.baseconversion",
         "peekOfCode": "x = \"abc\"\ny = list(x)\nprint(y)",
-        "detail": "random.baseconversion",
+        "detail": "LC.baseconversion",
         "documentation": {}
     },
     {
         "label": "y",
         "kind": 5,
-        "importPath": "random.baseconversion",
-        "description": "random.baseconversion",
+        "importPath": "LC.baseconversion",
+        "description": "LC.baseconversion",
         "peekOfCode": "y = list(x)\nprint(y)",
-        "detail": "random.baseconversion",
+        "detail": "LC.baseconversion",
         "documentation": {}
     },
     {
         "label": "nums",
         "kind": 5,
-        "importPath": "ordered_dict",
-        "description": "ordered_dict",
+        "importPath": "python-ds.ordered_dict",
+        "description": "python-ds.ordered_dict",
         "peekOfCode": "nums = [1,2,3,4,5,6]\nod = OrderedDict.fromkeys(nums)\nd = dict.fromkeys(nums)\nprint(od)\nprint(d)",
-        "detail": "ordered_dict",
+        "detail": "python-ds.ordered_dict",
         "documentation": {}
     },
     {
         "label": "od",
         "kind": 5,
-        "importPath": "ordered_dict",
-        "description": "ordered_dict",
+        "importPath": "python-ds.ordered_dict",
+        "description": "python-ds.ordered_dict",
         "peekOfCode": "od = OrderedDict.fromkeys(nums)\nd = dict.fromkeys(nums)\nprint(od)\nprint(d)",
-        "detail": "ordered_dict",
+        "detail": "python-ds.ordered_dict",
         "documentation": {}
     },
     {
         "label": "d",
         "kind": 5,
-        "importPath": "ordered_dict",
-        "description": "ordered_dict",
+        "importPath": "python-ds.ordered_dict",
+        "description": "python-ds.ordered_dict",
         "peekOfCode": "d = dict.fromkeys(nums)\nprint(od)\nprint(d)",
-        "detail": "ordered_dict",
+        "detail": "python-ds.ordered_dict",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "quesdb.alembic.versions.67ccbc78fe87_added_new_column_started",
+        "description": "quesdb.alembic.versions.67ccbc78fe87_added_new_column_started",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('questions', sa.Column('started', sa.Date(), nullable=True))\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('questions', 'started')\n    # ### end Alembic commands ###",
+        "detail": "quesdb.alembic.versions.67ccbc78fe87_added_new_column_started",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "quesdb.alembic.versions.67ccbc78fe87_added_new_column_started",
+        "description": "quesdb.alembic.versions.67ccbc78fe87_added_new_column_started",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('questions', 'started')\n    # ### end Alembic commands ###",
+        "detail": "quesdb.alembic.versions.67ccbc78fe87_added_new_column_started",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "quesdb.alembic.versions.b1bc0238f03a_initialize",
+        "description": "quesdb.alembic.versions.b1bc0238f03a_initialize",
+        "peekOfCode": "def upgrade() -> None:\n    pass\ndef downgrade() -> None:\n    pass",
+        "detail": "quesdb.alembic.versions.b1bc0238f03a_initialize",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "quesdb.alembic.versions.b1bc0238f03a_initialize",
+        "description": "quesdb.alembic.versions.b1bc0238f03a_initialize",
+        "peekOfCode": "def downgrade() -> None:\n    pass",
+        "detail": "quesdb.alembic.versions.b1bc0238f03a_initialize",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "quesdb.alembic.env",
+        "description": "quesdb.alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "quesdb.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "quesdb.alembic.env",
+        "description": "quesdb.alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "quesdb.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "quesdb.alembic.env",
+        "description": "quesdb.alembic.env",
+        "peekOfCode": "config = context.config\nconfig.set_main_option('sqlalchemy.url', SQLALCHEMY_DATABASE_URL)\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "quesdb.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "quesdb.alembic.env",
+        "description": "quesdb.alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "quesdb.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "quesdb.database",
+        "description": "quesdb.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"sqlite:///./test.db\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "quesdb.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "quesdb.database",
+        "description": "quesdb.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "quesdb.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "quesdb.database",
+        "description": "quesdb.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "quesdb.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "quesdb.database",
+        "description": "quesdb.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "quesdb.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "quesdb.main",
+        "description": "quesdb.main",
+        "peekOfCode": "app = FastAPI()\nBase.metadata.create_all(bind=engine)\n@app.post(\"/parse\")\nasync def parse():\n    ques_to_store = []\n    with open(\"ques_19oct.txt\") as qfile:\n        for quesline in qfile:\n            qdata = quesline.strip().split(\".\")\n            if len(qdata) != 2:\n                print(\"Check this: \", qdata)",
+        "detail": "quesdb.main",
+        "documentation": {}
+    },
+    {
+        "label": "Questions",
+        "kind": 6,
+        "importPath": "quesdb.models",
+        "description": "quesdb.models",
+        "peekOfCode": "class Questions(Base):\n    __tablename__ = \"questions\"\n    id = Column(Integer, primary_key=True, index=True)\n    lc_id = Column(Integer, unique=True)\n    question = Column(String)\n    done_on = Column(Date)\n    started = Column(Date)\n    def __str__(self):\n        return f\"{self.lc_id}: {self.question} (DB ID: {self.id})\"",
+        "detail": "quesdb.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_question",
+        "kind": 2,
+        "importPath": "quesdb.script_get_question",
+        "description": "quesdb.script_get_question",
+        "peekOfCode": "def get_question():\n    db = SessionLocal()\n    try:\n        question: Questions = (db.query(Questions)\n            .filter(Questions.started.is_(None))\n            .order_by(func.random())\n            .first())\n        if question:\n            question.started = date.today()\n            db.commit()",
+        "detail": "quesdb.script_get_question",
+        "documentation": {}
+    },
+    {
+        "label": "load_questions",
+        "kind": 2,
+        "importPath": "quesdb.script_load_questions",
+        "description": "quesdb.script_load_questions",
+        "peekOfCode": "def load_questions():\n    db = SessionLocal()\n    ques_to_store = []\n    with open(\"ques_19oct.txt\") as qfile:\n        for line in qfile:\n            qdata = line.strip().split(\".\")\n            if len(qdata) != 2:\n                print(\"Check this:\", qdata)\n                continue\n            lcid = int(qdata[0])",
+        "detail": "quesdb.script_load_questions",
+        "documentation": {}
+    },
+    {
+        "label": "mark_done_question",
+        "kind": 2,
+        "importPath": "quesdb.script_mark_done_question",
+        "description": "quesdb.script_mark_done_question",
+        "peekOfCode": "def mark_done_question(lc_id: int):\n    db = SessionLocal()\n    try:\n        question: Questions = (db.query(Questions)\n            .filter(Questions.lc_id == lc_id)\n            .first())\n        if question:\n            question.done_on = date.today()\n            db.commit()\n            print(f\"Marked done for {question}\")",
+        "detail": "quesdb.script_mark_done_question",
         "documentation": {}
     }
 ]
