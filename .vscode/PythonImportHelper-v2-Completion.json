@@ -144,6 +144,14 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Sequence",
         "importPath": "typing",
         "description": "typing",
@@ -319,6 +327,15 @@
         "description": "bisect",
         "isExtraImport": true,
         "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
         "documentation": {}
     },
     {
@@ -1491,6 +1508,42 @@
         "description": "11. binary search.lc-2300",
         "peekOfCode": "ans = successfulPairs(spells, potions, success)\nprint(ans)",
         "detail": "11. binary search.lc-2300",
+        "documentation": {}
+    },
+    {
+        "label": "find_pivot_index",
+        "kind": 2,
+        "importPath": "11. binary search.lc-33-search-sorted-rotated-array",
+        "description": "11. binary search.lc-33-search-sorted-rotated-array",
+        "peekOfCode": "def find_pivot_index(arr: List[int]):\n    l, r = 0, len(arr)-1\n    while l < r:\n        mid = (l+r)//2\n        if arr[mid] > arr[r]:\n            l = mid+1\n        else:\n            r = mid\n    return l\ndef search(arr, target):",
+        "detail": "11. binary search.lc-33-search-sorted-rotated-array",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "11. binary search.lc-33-search-sorted-rotated-array",
+        "description": "11. binary search.lc-33-search-sorted-rotated-array",
+        "peekOfCode": "def search(arr, target):\n    n = len(arr)\n    rotate_arr(arr, 3)\n    \"\"\"\n    [0, pivot-1] is one sorted half\n    [pivot, n-1] is the other one\n    \"\"\"\n    pivot = find_pivot_index(arr)\n    from bisect import bisect_left\n    i = bisect_left(a=arr, x=target, lo=0, hi=pivot)",
+        "detail": "11. binary search.lc-33-search-sorted-rotated-array",
+        "documentation": {}
+    },
+    {
+        "label": "rotate_arr",
+        "kind": 2,
+        "importPath": "11. binary search.lc-33-search-sorted-rotated-array",
+        "description": "11. binary search.lc-33-search-sorted-rotated-array",
+        "peekOfCode": "def rotate_arr(arr: List[int], k: int):\n    n = len(arr)\n    def rev_arr(start, end):\n        while start < end:\n            arr[start], arr[end] = arr[end], arr[start]\n            start += 1\n            end -= 1\n    rev_arr(0, n-1)\n    rev_arr(0, n-k-1)\n    rev_arr(n-k, n-1)",
+        "detail": "11. binary search.lc-33-search-sorted-rotated-array",
+        "documentation": {}
+    },
+    {
+        "label": "arr",
+        "kind": 5,
+        "importPath": "11. binary search.lc-33-search-sorted-rotated-array",
+        "description": "11. binary search.lc-33-search-sorted-rotated-array",
+        "peekOfCode": "arr = [0, 1, 2, 4, 5, 6, 7]\ndef rotate_arr(arr: List[int], k: int):\n    n = len(arr)\n    def rev_arr(start, end):\n        while start < end:\n            arr[start], arr[end] = arr[end], arr[start]\n            start += 1\n            end -= 1\n    rev_arr(0, n-1)\n    rev_arr(0, n-k-1)",
+        "detail": "11. binary search.lc-33-search-sorted-rotated-array",
         "documentation": {}
     },
     {
